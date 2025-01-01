@@ -1,0 +1,3 @@
+rep "Knights Divide@CSCI4168@cloud"
+  path "/"
+    smartbranch "/main/Develoipment"

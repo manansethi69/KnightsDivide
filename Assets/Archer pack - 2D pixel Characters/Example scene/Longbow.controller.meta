@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e92b417ff6ea9c943b37da2726b74aff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282028
+  packageName: Archer Pack - Animated 2D Pixel Characters
+  packageVersion: 1.1.0
+  assetPath: Assets/Archer pack - 2D pixel Characters/Example scene/Longbow.controller
+  uploadId: 659775

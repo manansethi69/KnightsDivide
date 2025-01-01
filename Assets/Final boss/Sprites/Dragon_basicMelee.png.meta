@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 2fcb427dea16bbe47b71a802590ab1bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3850011876300387790
+    second: Dragon_basicMelee_0
+  - first:
+      213: -6613214680930931516
+    second: Dragon_basicMelee_1
+  - first:
+      213: -1260054054200298016
+    second: Dragon_basicMelee_2
+  - first:
+      213: 5029093239271484425
+    second: Dragon_basicMelee_3
+  - first:
+      213: -6052681130966354627
+    second: Dragon_basicMelee_4
+  - first:
+      213: -143505558899939230
+    second: Dragon_basicMelee_5
+  - first:
+      213: -3528832679593042373
+    second: Dragon_basicMelee_6
+  - first:
+      213: 2959581384932664655
+    second: Dragon_basicMelee_7
+  - first:
+      213: -8647868232803804393
+    second: Dragon_basicMelee_8
+  - first:
+      213: 4248006406386156192
+    second: Dragon_basicMelee_9
+  - first:
+      213: -1399294422071746285
+    second: Dragon_basicMelee_10
+  - first:
+      213: 1002508738367798617
+    second: Dragon_basicMelee_11
+  - first:
+      213: 2181377900809297586
+    second: Dragon_basicMelee_12
+  - first:
+      213: 2383048476369629959
+    second: Dragon_basicMelee_13
+  - first:
+      213: 6605143893075920556
+    second: Dragon_basicMelee_14
+  - first:
+      213: -5150359377295487331
+    second: Dragon_basicMelee_15
+  - first:
+      213: 3844323050007401643
+    second: Dragon_basicMelee_16
+  - first:
+      213: 3379871206199873415
+    second: Dragon_basicMelee_17
+  - first:
+      213: -7136974753314145224
+    second: Dragon_basicMelee_18
+  - first:
+      213: 76951873996465405
+    second: Dragon_basicMelee_19
+  - first:
+      213: -6935644656577062137
+    second: Dragon_basicMelee_20
+  - first:
+      213: 4135659042769933875
+    second: Dragon_basicMelee_21
+  - first:
+      213: 7176254690344311390
+    second: Dragon_basicMelee_22
+  - first:
+      213: 6939680997176893283
+    second: Dragon_basicMelee_23
+  - first:
+      213: 5897239145462814995
+    second: Dragon_basicMelee_24
+  - first:
+      213: -5019362634139901754
+    second: Dragon_basicMelee_25
+  - first:
+      213: 9204601147148309648
+    second: Dragon_basicMelee_26
+  - first:
+      213: 3540064929077519538
+    second: Dragon_basicMelee_27
+  - first:
+      213: -5832336799917729520
+    second: Dragon_basicMelee_28
+  - first:
+      213: -4175974456035559890
+    second: Dragon_basicMelee_29
+  - first:
+      213: 4622432704782454049
+    second: Dragon_basicMelee_30
+  - first:
+      213: -2116812749636691022
+    second: Dragon_basicMelee_31
+  - first:
+      213: -5546998675353743873
+    second: Dragon_basicMelee_32
+  - first:
+      213: 7829716618671099390
+    second: Dragon_basicMelee_33
+  - first:
+      213: -2118017113591550195
+    second: Dragon_basicMelee_34
+  - first:
+      213: -820320550888364304
+    second: Dragon_basicMelee_35
+  - first:
+      213: -841619941458279416
+    second: Dragon_basicMelee_36
+  - first:
+      213: -6464596826890185166
+    second: Dragon_basicMelee_37
+  - first:
+      213: -3804037702467980228
+    second: Dragon_basicMelee_38
+  - first:
+      213: 7377839955421085420
+    second: Dragon_basicMelee_39
+  - first:
+      213: 5048488947522399850
+    second: Dragon_basicMelee_40
+  - first:
+      213: 8977578313692549455
+    second: Dragon_basicMelee_41
+  - first:
+      213: -1727233549437832067
+    second: Dragon_basicMelee_42
+  - first:
+      213: -4534625470221509465
+    second: Dragon_basicMelee_43
+  - first:
+      213: -2710713392441623420
+    second: Dragon_basicMelee_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_basicMelee_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec57beb376dfd6530800000000000000
+      internalID: 3850011876300387790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cca6b739442934a0800000000000000
+      internalID: -6613214680930931516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b9958383638ee0800000000000000
+      internalID: -1260054054200298016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c6815e7adeac540800000000000000
+      internalID: 5029093239271484425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_4
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357a02749e800ca0800000000000000
+      internalID: -6052681130966354627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_5
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a97a547a220ef0800000000000000
+      internalID: -143505558899939230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_6
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e111ddf51170fc0800000000000000
+      internalID: -3528832679593042373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_7
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4525ccc69b821920800000000000000
+      internalID: 2959581384932664655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b185f19a99cf780800000000000000
+      internalID: -8647868232803804393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1661
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20b38d153f3fa30800000000000000
+      internalID: 4248006406386156192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1661
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3116a3c0325b49ce0800000000000000
+      internalID: -1399294422071746285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1661
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d33a2d260a9ed00800000000000000
+      internalID: 1002508738367798617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_12
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1662
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be10a2b4afc54e10800000000000000
+      internalID: 2181377900809297586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_13
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1662
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7033c8c96f9421120800000000000000
+      internalID: 2383048476369629959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_14
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1662
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6812d006f2aab50800000000000000
+      internalID: 6605143893075920556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_15
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1662
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e43b22f6f3688b0800000000000000
+      internalID: -5150359377295487331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1406
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba499852277c95530800000000000000
+      internalID: 3844323050007401643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1406
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4d1864f6b7ee20800000000000000
+      internalID: 3379871206199873415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1406
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c77c1764f54fc90800000000000000
+      internalID: -7136974753314145224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1406
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42c5a5253611100800000000000000
+      internalID: 76951873996465405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1406
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b53647ee3afbf90800000000000000
+      internalID: -6935644656577062137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1406
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3361f6cdcffc46930800000000000000
+      internalID: 4135659042769933875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_22
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1406
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a14b39e9d279360800000000000000
+      internalID: 7176254690344311390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_23
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1406
+        width: 178
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd1435913be4060800000000000000
+      internalID: 6939680997176893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1150
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319d6d402c337d150800000000000000
+      internalID: 5897239145462814995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1150
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0e8392744a75ab0800000000000000
+      internalID: -5019362634139901754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1150
+        width: 176
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949deaa9ff4dbf70800000000000000
+      internalID: 9204601147148309648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1150
+        width: 175
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4eb730c46d02130800000000000000
+      internalID: 3540064929077519538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_28
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1150
+        width: 173
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019177ed4906f0fa0800000000000000
+      internalID: -5832336799917729520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1150
+        width: 172
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2635e48b55fb06c0800000000000000
+      internalID: -4175974456035559890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_30
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1150
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dc4b6ed0e262040800000000000000
+      internalID: 4622432704782454049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_31
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1150
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb13e105029f92e0800000000000000
+      internalID: -2116812749636691022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 893
+        width: 186
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4af1181a1503b0800000000000000
+      internalID: -5546998675353743873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 893
+        width: 190
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0dd3f7cdb8ac60800000000000000
+      internalID: 7829716618671099390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 893
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f6d2c28aa4b92e0800000000000000
+      internalID: -2118017113591550195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 893
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a8522ec2ad94f0800000000000000
+      internalID: -820320550888364304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 893
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048e715f17f154f0800000000000000
+      internalID: -841619941458279416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_37
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 893
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d715df632946a0800000000000000
+      internalID: -6464596826890185166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_38
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 893
+        width: 194
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f3304dd7553bc0800000000000000
+      internalID: -3804037702467980228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_39
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 893
+        width: 194
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceebe88995a536660800000000000000
+      internalID: 7377839955421085420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 637
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eee8123f5df0640800000000000000
+      internalID: 5048488947522399850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 637
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4115ea39e3c69c70800000000000000
+      internalID: 8977578313692549455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 637
+        width: 190
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74fe91fc32a708e0800000000000000
+      internalID: -1727233549437832067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 637
+        width: 189
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac120a0926c111c0800000000000000
+      internalID: -4534625470221509465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_basicMelee_44
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 637
+        width: 187
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c7f93188c916ad0800000000000000
+      internalID: -2710713392441623420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_basicMelee_0: 3850011876300387790
+      Dragon_basicMelee_1: -6613214680930931516
+      Dragon_basicMelee_10: -1399294422071746285
+      Dragon_basicMelee_11: 1002508738367798617
+      Dragon_basicMelee_12: 2181377900809297586
+      Dragon_basicMelee_13: 2383048476369629959
+      Dragon_basicMelee_14: 6605143893075920556
+      Dragon_basicMelee_15: -5150359377295487331
+      Dragon_basicMelee_16: 3844323050007401643
+      Dragon_basicMelee_17: 3379871206199873415
+      Dragon_basicMelee_18: -7136974753314145224
+      Dragon_basicMelee_19: 76951873996465405
+      Dragon_basicMelee_2: -1260054054200298016
+      Dragon_basicMelee_20: -6935644656577062137
+      Dragon_basicMelee_21: 4135659042769933875
+      Dragon_basicMelee_22: 7176254690344311390
+      Dragon_basicMelee_23: 6939680997176893283
+      Dragon_basicMelee_24: 5897239145462814995
+      Dragon_basicMelee_25: -5019362634139901754
+      Dragon_basicMelee_26: 9204601147148309648
+      Dragon_basicMelee_27: 3540064929077519538
+      Dragon_basicMelee_28: -5832336799917729520
+      Dragon_basicMelee_29: -4175974456035559890
+      Dragon_basicMelee_3: 5029093239271484425
+      Dragon_basicMelee_30: 4622432704782454049
+      Dragon_basicMelee_31: -2116812749636691022
+      Dragon_basicMelee_32: -5546998675353743873
+      Dragon_basicMelee_33: 7829716618671099390
+      Dragon_basicMelee_34: -2118017113591550195
+      Dragon_basicMelee_35: -820320550888364304
+      Dragon_basicMelee_36: -841619941458279416
+      Dragon_basicMelee_37: -6464596826890185166
+      Dragon_basicMelee_38: -3804037702467980228
+      Dragon_basicMelee_39: 7377839955421085420
+      Dragon_basicMelee_4: -6052681130966354627
+      Dragon_basicMelee_40: 5048488947522399850
+      Dragon_basicMelee_41: 8977578313692549455
+      Dragon_basicMelee_42: -1727233549437832067
+      Dragon_basicMelee_43: -4534625470221509465
+      Dragon_basicMelee_44: -2710713392441623420
+      Dragon_basicMelee_5: -143505558899939230
+      Dragon_basicMelee_6: -3528832679593042373
+      Dragon_basicMelee_7: 2959581384932664655
+      Dragon_basicMelee_8: -8647868232803804393
+      Dragon_basicMelee_9: 4248006406386156192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

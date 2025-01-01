@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 79595506999744e47a3849cab9ec356a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3215828424737618330
+    second: TorcherBandit - attack_0
+  - first:
+      213: 3922169934467177462
+    second: TorcherBandit - attack_1
+  - first:
+      213: -7099924104459213498
+    second: TorcherBandit - attack_2
+  - first:
+      213: 6100408805651199250
+    second: TorcherBandit - attack_3
+  - first:
+      213: -1475381134502066312
+    second: TorcherBandit - attack_4
+  - first:
+      213: -5024076416749413570
+    second: TorcherBandit - attack_5
+  - first:
+      213: -1490946634654444829
+    second: TorcherBandit - attack_6
+  - first:
+      213: 4096624705283073797
+    second: TorcherBandit - attack_7
+  - first:
+      213: -3769216910342853908
+    second: TorcherBandit - attack_8
+  - first:
+      213: 555374607198464247
+    second: TorcherBandit - attack_9
+  - first:
+      213: 1935588445253042841
+    second: TorcherBandit - attack_10
+  - first:
+      213: 9001538109811161363
+    second: TorcherBandit - attack_11
+  - first:
+      213: -3910356549183750162
+    second: TorcherBandit - attack_12
+  - first:
+      213: -3072537454757111344
+    second: TorcherBandit - attack_13
+  - first:
+      213: 5505790610324805038
+    second: TorcherBandit - attack_14
+  - first:
+      213: -5838897729353308626
+    second: TorcherBandit - attack_15
+  - first:
+      213: 2109587392346345722
+    second: TorcherBandit - attack_16
+  - first:
+      213: 5766175778809537125
+    second: TorcherBandit - attack_17
+  - first:
+      213: -5492015204556576632
+    second: TorcherBandit - attack_18
+  - first:
+      213: 6788714525836792127
+    second: TorcherBandit - attack_19
+  - first:
+      213: 2444898293866591899
+    second: TorcherBandit - attack_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TorcherBandit - attack_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66609ecf5151f53d0800000000000000
+      internalID: -3215828424737618330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb12ac56c85e6630800000000000000
+      internalID: 3922169934467177462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 47
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a97dd4a0087d90800000000000000
+      internalID: -7099924104459213498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 47
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153185cc7109a450800000000000000
+      internalID: 6100408805651199250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 47
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87701b1dca4668be0800000000000000
+      internalID: -1475381134502066312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 47
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bdb3f1e15e64ab0800000000000000
+      internalID: -5024076416749413570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 47
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e29b566fe71f4be0800000000000000
+      internalID: -1490946634654444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 47
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ac70f6722ad830800000000000000
+      internalID: 4096624705283073797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 47
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6e91b03d01bbc0800000000000000
+      internalID: -3769216910342853908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f82653434615b700800000000000000
+      internalID: 555374607198464247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99288ae8f679cda10800000000000000
+      internalID: 1935588445253042841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_11
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3197f6bf733ebec70800000000000000
+      internalID: 9001538109811161363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefb7ccbf6f9bb9c0800000000000000
+      internalID: -3910356549183750162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_13
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 47
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d99e12c6772c55d0800000000000000
+      internalID: -3072537454757111344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_14
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 47
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea55710a36f786c40800000000000000
+      internalID: 5505790610324805038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_15
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 47
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26af02737118fea0800000000000000
+      internalID: -5838897729353308626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_16
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 47
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af052776e82c64d10800000000000000
+      internalID: 2109587392346345722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_17
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 47
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56267600252950050800000000000000
+      internalID: 5766175778809537125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_18
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 47
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886c57f44178c3b0800000000000000
+      internalID: -5492015204556576632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_19
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 47
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f315902a4eb563e50800000000000000
+      internalID: 6788714525836792127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - attack_20
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 47
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9670ed6b060ee120800000000000000
+      internalID: 2444898293866591899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TorcherBandit - attack_0: -3215828424737618330
+      TorcherBandit - attack_1: 3922169934467177462
+      TorcherBandit - attack_10: 1935588445253042841
+      TorcherBandit - attack_11: 9001538109811161363
+      TorcherBandit - attack_12: -3910356549183750162
+      TorcherBandit - attack_13: -3072537454757111344
+      TorcherBandit - attack_14: 5505790610324805038
+      TorcherBandit - attack_15: -5838897729353308626
+      TorcherBandit - attack_16: 2109587392346345722
+      TorcherBandit - attack_17: 5766175778809537125
+      TorcherBandit - attack_18: -5492015204556576632
+      TorcherBandit - attack_19: 6788714525836792127
+      TorcherBandit - attack_2: -7099924104459213498
+      TorcherBandit - attack_20: 2444898293866591899
+      TorcherBandit - attack_3: 6100408805651199250
+      TorcherBandit - attack_4: -1475381134502066312
+      TorcherBandit - attack_5: -5024076416749413570
+      TorcherBandit - attack_6: -1490946634654444829
+      TorcherBandit - attack_7: 4096624705283073797
+      TorcherBandit - attack_8: -3769216910342853908
+      TorcherBandit - attack_9: 555374607198464247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

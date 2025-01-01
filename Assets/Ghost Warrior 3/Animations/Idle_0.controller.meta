@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24ad92c0e7b23864dab0f9577c02b6c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190181
+  packageName: Ghost Warrior 3
+  packageVersion: 1.0
+  assetPath: Assets/Ghost Warrior 3/Animations/Idle_0.controller
+  uploadId: 420013

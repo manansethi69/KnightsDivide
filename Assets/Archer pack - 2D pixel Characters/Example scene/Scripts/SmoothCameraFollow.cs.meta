@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fe7c02cda7db804690ab70a34623685
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282028
+  packageName: Archer Pack - Animated 2D Pixel Characters
+  packageVersion: 1.1.0
+  assetPath: Assets/Archer pack - 2D pixel Characters/Example scene/Scripts/SmoothCameraFollow.cs
+  uploadId: 659775

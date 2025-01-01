@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e269ab18d85bc44439325ae29d88b880
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3490455662373706208
+    second: DaggerThrower - death_0
+  - first:
+      213: -3213067475716676994
+    second: DaggerThrower - death_1
+  - first:
+      213: -618601299014448780
+    second: DaggerThrower - death_2
+  - first:
+      213: -3502456264240092637
+    second: DaggerThrower - death_3
+  - first:
+      213: -4391502756521422149
+    second: DaggerThrower - death_4
+  - first:
+      213: 3530889633230556292
+    second: DaggerThrower - death_5
+  - first:
+      213: 2497627420463952732
+    second: DaggerThrower - death_6
+  - first:
+      213: 574361558382920723
+    second: DaggerThrower - death_7
+  - first:
+      213: -785710346831705136
+    second: DaggerThrower - death_8
+  - first:
+      213: -6291700977645538395
+    second: DaggerThrower - death_9
+  - first:
+      213: 8571248421048501198
+    second: DaggerThrower - death_10
+  - first:
+      213: 3949485569997029443
+    second: DaggerThrower - death_11
+  - first:
+      213: 1618578890848602885
+    second: DaggerThrower - death_12
+  - first:
+      213: -617535521869863435
+    second: DaggerThrower - death_13
+  - first:
+      213: 3978588185119509646
+    second: DaggerThrower - death_14
+  - first:
+      213: -2472820284740240769
+    second: DaggerThrower - death_15
+  - first:
+      213: -786396430561071685
+    second: DaggerThrower - death_16
+  - first:
+      213: -8396640699110163472
+    second: DaggerThrower - death_17
+  - first:
+      213: 4088529174057383288
+    second: DaggerThrower - death_18
+  - first:
+      213: 1622364022926314603
+    second: DaggerThrower - death_19
+  - first:
+      213: 2478231817034651967
+    second: DaggerThrower - death_20
+  - first:
+      213: -1991156916501813953
+    second: DaggerThrower - death_21
+  - first:
+      213: 2981396528780170111
+    second: DaggerThrower - death_22
+  - first:
+      213: -278805214927342779
+    second: DaggerThrower - death_23
+  - first:
+      213: 2275400470799254926
+    second: DaggerThrower - death_24
+  - first:
+      213: -4451982608248451044
+    second: DaggerThrower - death_25
+  - first:
+      213: -5312390589154796659
+    second: DaggerThrower - death_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaggerThrower - death_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026e6fb71196f8fc0800000000000000
+      internalID: -3490455662373706208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 47
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72eb868724e863d0800000000000000
+      internalID: -3213067475716676994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47906a265694a67f0800000000000000
+      internalID: -618601299014448780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 47
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa0a0a596c46fc0800000000000000
+      internalID: -3502456264240092637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb25467928f3e03c0800000000000000
+      internalID: -4391502756521422149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 47
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c01d9f96d300130800000000000000
+      internalID: 3530889633230556292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 47
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53770ae7ea59a220800000000000000
+      internalID: 2497627420463952732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 47
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314cd045bca88f700800000000000000
+      internalID: 574361558382920723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 47
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4fb83a989815f0800000000000000
+      internalID: -785710346831705136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 47
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3b572bb436fa8a0800000000000000
+      internalID: -6291700977645538395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_10
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 47
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3493ac60133f670800000000000000
+      internalID: 8571248421048501198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 47
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340443d53346fc630800000000000000
+      internalID: 3949485569997029443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b0af5fce8567610800000000000000
+      internalID: 1618578890848602885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 47
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e2c6f6b21e67f0800000000000000
+      internalID: -617535521869863435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c4d99ffd8c63730800000000000000
+      internalID: 3978588185119509646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_15
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a7da67d07ceadd0800000000000000
+      internalID: -2472820284740240769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_16
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 47
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda5c7ec982615f0800000000000000
+      internalID: -786396430561071685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb73fe75c3297b80800000000000000
+      internalID: -8396640699110163472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 47
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f2813f9f5db830800000000000000
+      internalID: 4088529174057383288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c85e2bb7bc38610800000000000000
+      internalID: 1622364022926314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_20
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 47
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39db6515b2746220800000000000000
+      internalID: 2478231817034651967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_21
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35e8d3855dfd54e0800000000000000
+      internalID: -1991156916501813953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_22
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 47
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f735688c85c006920800000000000000
+      internalID: 2981396528780170111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_23
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543baba522c712cf0800000000000000
+      internalID: -278805214927342779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_24
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 47
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850fbf2ca8d39f10800000000000000
+      internalID: 2275400470799254926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105229c7616732c0800000000000000
+      internalID: -4451982608248451044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - death_26
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 47
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bdc49c7e89646b0800000000000000
+      internalID: -5312390589154796659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DaggerThrower - death_0: -3490455662373706208
+      DaggerThrower - death_1: -3213067475716676994
+      DaggerThrower - death_10: 8571248421048501198
+      DaggerThrower - death_11: 3949485569997029443
+      DaggerThrower - death_12: 1618578890848602885
+      DaggerThrower - death_13: -617535521869863435
+      DaggerThrower - death_14: 3978588185119509646
+      DaggerThrower - death_15: -2472820284740240769
+      DaggerThrower - death_16: -786396430561071685
+      DaggerThrower - death_17: -8396640699110163472
+      DaggerThrower - death_18: 4088529174057383288
+      DaggerThrower - death_19: 1622364022926314603
+      DaggerThrower - death_2: -618601299014448780
+      DaggerThrower - death_20: 2478231817034651967
+      DaggerThrower - death_21: -1991156916501813953
+      DaggerThrower - death_22: 2981396528780170111
+      DaggerThrower - death_23: -278805214927342779
+      DaggerThrower - death_24: 2275400470799254926
+      DaggerThrower - death_25: -4451982608248451044
+      DaggerThrower - death_26: -5312390589154796659
+      DaggerThrower - death_3: -3502456264240092637
+      DaggerThrower - death_4: -4391502756521422149
+      DaggerThrower - death_5: 3530889633230556292
+      DaggerThrower - death_6: 2497627420463952732
+      DaggerThrower - death_7: 574361558382920723
+      DaggerThrower - death_8: -785710346831705136
+      DaggerThrower - death_9: -6291700977645538395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98bf8d5a49087f947998da7b785b771a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282028
+  packageName: Archer Pack - Animated 2D Pixel Characters
+  packageVersion: 1.1.0
+  assetPath: Assets/Archer pack - 2D pixel Characters/Example scene/Arrows/Arrow/ArrowAnimator.controller
+  uploadId: 659775

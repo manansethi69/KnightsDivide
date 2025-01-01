@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 4f1e0bac7fd9054408e4c04b9fe8fccd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2314747001122278407
+    second: Dragon_Shockwave_0
+  - first:
+      213: 7015145026022503004
+    second: Dragon_Shockwave_1
+  - first:
+      213: 56417746564536622
+    second: Dragon_Shockwave_2
+  - first:
+      213: -2863933600253474240
+    second: Dragon_Shockwave_3
+  - first:
+      213: -4977069526874861508
+    second: Dragon_Shockwave_4
+  - first:
+      213: -6675675357506064787
+    second: Dragon_Shockwave_5
+  - first:
+      213: -5092825748401177517
+    second: Dragon_Shockwave_6
+  - first:
+      213: -3593100321176908023
+    second: Dragon_Shockwave_7
+  - first:
+      213: 1807803310837432410
+    second: Dragon_Shockwave_8
+  - first:
+      213: -1164438182607503183
+    second: Dragon_Shockwave_9
+  - first:
+      213: -5928061014733258644
+    second: Dragon_Shockwave_10
+  - first:
+      213: -3591409073487544
+    second: Dragon_Shockwave_11
+  - first:
+      213: -4877459428804567065
+    second: Dragon_Shockwave_12
+  - first:
+      213: 8794645788115515598
+    second: Dragon_Shockwave_13
+  - first:
+      213: -5647231197596684299
+    second: Dragon_Shockwave_14
+  - first:
+      213: 2717997494483991843
+    second: Dragon_Shockwave_15
+  - first:
+      213: -8897607421771481712
+    second: Dragon_Shockwave_16
+  - first:
+      213: -4215615429875014985
+    second: Dragon_Shockwave_17
+  - first:
+      213: -5505633636825360400
+    second: Dragon_Shockwave_18
+  - first:
+      213: 1205124402973888241
+    second: Dragon_Shockwave_19
+  - first:
+      213: -8023889685485969833
+    second: Dragon_Shockwave_20
+  - first:
+      213: -1931076453027424703
+    second: Dragon_Shockwave_21
+  - first:
+      213: 1322726213903710662
+    second: Dragon_Shockwave_22
+  - first:
+      213: -6983551871148381823
+    second: Dragon_Shockwave_23
+  - first:
+      213: -3116230419700533645
+    second: Dragon_Shockwave_24
+  - first:
+      213: 78146099567283068
+    second: Dragon_Shockwave_25
+  - first:
+      213: -8679896845550430794
+    second: Dragon_Shockwave_26
+  - first:
+      213: -2777777329376452249
+    second: Dragon_Shockwave_27
+  - first:
+      213: -106730483517254931
+    second: Dragon_Shockwave_28
+  - first:
+      213: 7916579366124368283
+    second: Dragon_Shockwave_29
+  - first:
+      213: 8106601992350648554
+    second: Dragon_Shockwave_30
+  - first:
+      213: -8470634340209991705
+    second: Dragon_Shockwave_31
+  - first:
+      213: 3243768031468054894
+    second: Dragon_Shockwave_32
+  - first:
+      213: -8532162979536386047
+    second: Dragon_Shockwave_33
+  - first:
+      213: 3396550132208592739
+    second: Dragon_Shockwave_34
+  - first:
+      213: 4721728150385042581
+    second: Dragon_Shockwave_35
+  - first:
+      213: -711629845884270813
+    second: Dragon_Shockwave_36
+  - first:
+      213: 307501092898188365
+    second: Dragon_Shockwave_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_Shockwave_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c4bca2222af1020800000000000000
+      internalID: 2314747001122278407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527bebbb3dca5160800000000000000
+      internalID: 7015145026022503004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d10f34af68c000800000000000000
+      internalID: 56417746564536622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1917
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a069870934148d0800000000000000
+      internalID: -2863933600253474240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_4
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d33c82a5edeab0800000000000000
+      internalID: -4977069526874861508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_5
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea500b1ac3b53a0800000000000000
+      internalID: -6675675357506064787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_6
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb59bf6f5a259b0800000000000000
+      internalID: -5092825748401177517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_7
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f88e18b4eb22ec0800000000000000
+      internalID: -3593100321176908023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508d36788b961910800000000000000
+      internalID: 1807803310837432410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b047c274a517dfe0800000000000000
+      internalID: -1164438182607503183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c608bf15aeb4bbda0800000000000000
+      internalID: -5928061014733258644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8418ee9e1ad33fff0800000000000000
+      internalID: -3591409073487544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1661
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef59bbcd78cf4cb0800000000000000
+      internalID: -4877459428804567065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1661
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8b20e8fbbdc0a70800000000000000
+      internalID: 8794645788115515598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_14
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1661
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffeeb6652101a1b0800000000000000
+      internalID: -5647231197596684299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_15
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dbe17125448b520800000000000000
+      internalID: 2717997494483991843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1405
+        width: 184
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7e620139558480800000000000000
+      internalID: -8897607421771481712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e4a01a102f75c0800000000000000
+      internalID: -4215615429875014985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7159d906f0893b0800000000000000
+      internalID: -5505633636825360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_19
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec96d624679b010800000000000000
+      internalID: 1205124402973888241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_20
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e10bbe7da65a090800000000000000
+      internalID: -8023889685485969833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_21
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146dd2f72307335e0800000000000000
+      internalID: -1931076453027424703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_22
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f3d2cb744b5210800000000000000
+      internalID: 1322726213903710662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_23
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1404
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189afa9d290751f90800000000000000
+      internalID: -6983551871148381823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1148
+        width: 185
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376bb7b91fce0c4d0800000000000000
+      internalID: -3116230419700533645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1148
+        width: 186
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b4a49a671a51100800000000000000
+      internalID: 78146099567283068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1148
+        width: 186
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5dee99ecfca8780800000000000000
+      internalID: -8679896845550430794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_27
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1147
+        width: 223
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76122697c3a5379d0800000000000000
+      internalID: -2777777329376452249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_28
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1147
+        width: 223
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29f33d031d48ef0800000000000000
+      internalID: -106730483517254931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_29
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b70a5df65ddd60800000000000000
+      internalID: 7916579366124368283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_30
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1195
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c889bf8f608070800000000000000
+      internalID: 8106601992350648554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_31
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1148
+        width: 187
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efde8962f2427a80800000000000000
+      internalID: -8470634340209991705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_32
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1148
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69eb61a6dd240d20800000000000000
+      internalID: 3243768031468054894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_33
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cef6b9faa79980800000000000000
+      internalID: -8532162979536386047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_34
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1185
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367691c7958f22f20800000000000000
+      internalID: 3396550132208592739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1149
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a9a96cb2f68140800000000000000
+      internalID: 4721728150385042581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_36
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1149
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3278080fc68cf16f0800000000000000
+      internalID: -711629845884270813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Shockwave_37
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1149
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cad326d96744400800000000000000
+      internalID: 307501092898188365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_Shockwave_0: 2314747001122278407
+      Dragon_Shockwave_1: 7015145026022503004
+      Dragon_Shockwave_10: -5928061014733258644
+      Dragon_Shockwave_11: -3591409073487544
+      Dragon_Shockwave_12: -4877459428804567065
+      Dragon_Shockwave_13: 8794645788115515598
+      Dragon_Shockwave_14: -5647231197596684299
+      Dragon_Shockwave_15: 2717997494483991843
+      Dragon_Shockwave_16: -8897607421771481712
+      Dragon_Shockwave_17: -4215615429875014985
+      Dragon_Shockwave_18: -5505633636825360400
+      Dragon_Shockwave_19: 1205124402973888241
+      Dragon_Shockwave_2: 56417746564536622
+      Dragon_Shockwave_20: -8023889685485969833
+      Dragon_Shockwave_21: -1931076453027424703
+      Dragon_Shockwave_22: 1322726213903710662
+      Dragon_Shockwave_23: -6983551871148381823
+      Dragon_Shockwave_24: -3116230419700533645
+      Dragon_Shockwave_25: 78146099567283068
+      Dragon_Shockwave_26: -8679896845550430794
+      Dragon_Shockwave_27: -2777777329376452249
+      Dragon_Shockwave_28: -106730483517254931
+      Dragon_Shockwave_29: 7916579366124368283
+      Dragon_Shockwave_3: -2863933600253474240
+      Dragon_Shockwave_30: 8106601992350648554
+      Dragon_Shockwave_31: -8470634340209991705
+      Dragon_Shockwave_32: 3243768031468054894
+      Dragon_Shockwave_33: -8532162979536386047
+      Dragon_Shockwave_34: 3396550132208592739
+      Dragon_Shockwave_35: 4721728150385042581
+      Dragon_Shockwave_36: -711629845884270813
+      Dragon_Shockwave_37: 307501092898188365
+      Dragon_Shockwave_4: -4977069526874861508
+      Dragon_Shockwave_5: -6675675357506064787
+      Dragon_Shockwave_6: -5092825748401177517
+      Dragon_Shockwave_7: -3593100321176908023
+      Dragon_Shockwave_8: 1807803310837432410
+      Dragon_Shockwave_9: -1164438182607503183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

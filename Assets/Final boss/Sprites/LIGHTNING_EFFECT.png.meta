@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 113cb1f44bed75c4c9da982040f97e7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7176094771982110165
+    second: LIGHTNING_EFFECT_0
+  - first:
+      213: -8647063628383927880
+    second: LIGHTNING_EFFECT_1
+  - first:
+      213: -23458708060236669
+    second: LIGHTNING_EFFECT_2
+  - first:
+      213: -5406674619163598061
+    second: LIGHTNING_EFFECT_3
+  - first:
+      213: -4481522313769001485
+    second: LIGHTNING_EFFECT_4
+  - first:
+      213: 3567027559033081431
+    second: LIGHTNING_EFFECT_5
+  - first:
+      213: -525863903836346854
+    second: LIGHTNING_EFFECT_6
+  - first:
+      213: -6420280001524851362
+    second: LIGHTNING_EFFECT_7
+  - first:
+      213: 4916595762635054219
+    second: LIGHTNING_EFFECT_8
+  - first:
+      213: -7900494311131233372
+    second: LIGHTNING_EFFECT_9
+  - first:
+      213: 615920333484064005
+    second: LIGHTNING_EFFECT_10
+  - first:
+      213: 9013330364208923892
+    second: LIGHTNING_EFFECT_11
+  - first:
+      213: 3696348189909973683
+    second: LIGHTNING_EFFECT_12
+  - first:
+      213: -3653766273058846161
+    second: LIGHTNING_EFFECT_13
+  - first:
+      213: 6016771962621651558
+    second: LIGHTNING_EFFECT_14
+  - first:
+      213: -5593619472684892784
+    second: LIGHTNING_EFFECT_15
+  - first:
+      213: 4489789341468282609
+    second: LIGHTNING_EFFECT_16
+  - first:
+      213: 7567975731320835349
+    second: LIGHTNING_EFFECT_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 945
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd088eac2c969360800000000000000
+      internalID: 7176094771982110165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 955
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1c9ffa1757ff780800000000000000
+      internalID: -8647063628383927880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 945
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841e27ed68acaff0800000000000000
+      internalID: -23458708060236669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 958
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31322a46412a7f4b0800000000000000
+      internalID: -5406674619163598061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 923
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fddfc2233f6ec1c0800000000000000
+      internalID: -4481522313769001485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 883
+        width: 147
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e02308aa0a08130800000000000000
+      internalID: 3567027559033081431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 881
+        width: 197
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1662abc091c3b8f0800000000000000
+      internalID: -525863903836346854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 881
+        width: 197
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d119eca5596e6a0800000000000000
+      internalID: -6420280001524851362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 949
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9d000cc14b3440800000000000000
+      internalID: 4916595762635054219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 949
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3470b584ecb5290800000000000000
+      internalID: -7900494311131233372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 943
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df14fa7403c8800800000000000000
+      internalID: 615920333484064005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 887
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f44ae92638c51d70800000000000000
+      internalID: 9013330364208923892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 926
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bafdb938111c4330800000000000000
+      internalID: 3696348189909973683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 887
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a4602eee63b4dc0800000000000000
+      internalID: -3653766273058846161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 931
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae796c83edf7350800000000000000
+      internalID: 6016771962621651558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 929
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09db8e1d9b87f52b0800000000000000
+      internalID: -5593619472684892784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 918
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4d8e3e9fee4e30800000000000000
+      internalID: 4489789341468282609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIGHTNING_EFFECT_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 907
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc72ea4d9d60960800000000000000
+      internalID: 7567975731320835349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LIGHTNING_EFFECT_0: 7176094771982110165
+      LIGHTNING_EFFECT_1: -8647063628383927880
+      LIGHTNING_EFFECT_10: 615920333484064005
+      LIGHTNING_EFFECT_11: 9013330364208923892
+      LIGHTNING_EFFECT_12: 3696348189909973683
+      LIGHTNING_EFFECT_13: -3653766273058846161
+      LIGHTNING_EFFECT_14: 6016771962621651558
+      LIGHTNING_EFFECT_15: -5593619472684892784
+      LIGHTNING_EFFECT_16: 4489789341468282609
+      LIGHTNING_EFFECT_17: 7567975731320835349
+      LIGHTNING_EFFECT_2: -23458708060236669
+      LIGHTNING_EFFECT_3: -5406674619163598061
+      LIGHTNING_EFFECT_4: -4481522313769001485
+      LIGHTNING_EFFECT_5: 3567027559033081431
+      LIGHTNING_EFFECT_6: -525863903836346854
+      LIGHTNING_EFFECT_7: -6420280001524851362
+      LIGHTNING_EFFECT_8: 4916595762635054219
+      LIGHTNING_EFFECT_9: -7900494311131233372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

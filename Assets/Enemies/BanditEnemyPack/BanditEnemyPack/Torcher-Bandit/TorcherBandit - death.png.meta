@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 553dc182a592fd7479054abc56932162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1704949057378955042
+    second: TorcherBandit - death_0
+  - first:
+      213: -3214632618766738672
+    second: TorcherBandit - death_1
+  - first:
+      213: -1308893873179335251
+    second: TorcherBandit - death_2
+  - first:
+      213: -3260246152838795597
+    second: TorcherBandit - death_3
+  - first:
+      213: 5059721483013891529
+    second: TorcherBandit - death_4
+  - first:
+      213: -8167645987967756279
+    second: TorcherBandit - death_5
+  - first:
+      213: -7029036435847107859
+    second: TorcherBandit - death_6
+  - first:
+      213: 2716073164253556496
+    second: TorcherBandit - death_7
+  - first:
+      213: 7868157588659854735
+    second: TorcherBandit - death_8
+  - first:
+      213: 1646990042526531884
+    second: TorcherBandit - death_9
+  - first:
+      213: 2509185747735723988
+    second: TorcherBandit - death_10
+  - first:
+      213: 6783878580020915016
+    second: TorcherBandit - death_11
+  - first:
+      213: -833807723051343160
+    second: TorcherBandit - death_12
+  - first:
+      213: 1191697467651172955
+    second: TorcherBandit - death_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TorcherBandit - death_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa53d622239a710800000000000000
+      internalID: 1704949057378955042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 47
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b56034aa45363d0800000000000000
+      internalID: -3214632618766738672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 47
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5e57805ffd5dde0800000000000000
+      internalID: -1308893873179335251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 47
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea5b3c56741c2d0800000000000000
+      internalID: -3260246152838795597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 47
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5a47991edb73640800000000000000
+      internalID: 5059721483013891529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 47
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908990c7f31b6ae80800000000000000
+      internalID: -8167645987967756279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 47
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea2e006a98d37e90800000000000000
+      internalID: -7029036435847107859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fed4b072e61b520800000000000000
+      internalID: 2716073164253556496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 47
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d5ddcb3af413d60800000000000000
+      internalID: 7868157588659854735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 47
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214661b7b84bd610800000000000000
+      internalID: 1646990042526531884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_10
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 47
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb241b42b62d220800000000000000
+      internalID: 2509185747735723988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_11
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 47
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b278140ad252e50800000000000000
+      internalID: 6783878580020915016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_12
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 47
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22c882b48bd64f0800000000000000
+      internalID: -833807723051343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorcherBandit - death_13
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 47
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa41f6882c98010800000000000000
+      internalID: 1191697467651172955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TorcherBandit - death_0: 1704949057378955042
+      TorcherBandit - death_1: -3214632618766738672
+      TorcherBandit - death_10: 2509185747735723988
+      TorcherBandit - death_11: 6783878580020915016
+      TorcherBandit - death_12: -833807723051343160
+      TorcherBandit - death_13: 1191697467651172955
+      TorcherBandit - death_2: -1308893873179335251
+      TorcherBandit - death_3: -3260246152838795597
+      TorcherBandit - death_4: 5059721483013891529
+      TorcherBandit - death_5: -8167645987967756279
+      TorcherBandit - death_6: -7029036435847107859
+      TorcherBandit - death_7: 2716073164253556496
+      TorcherBandit - death_8: 7868157588659854735
+      TorcherBandit - death_9: 1646990042526531884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

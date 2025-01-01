@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 1bf3a1d37a65269478cf99d328fbeb42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6422287387314101006
+    second: OPEN MOUTH_0
+  - first:
+      213: -6083568278273967373
+    second: OPEN MOUTH_1
+  - first:
+      213: -1566717183374502670
+    second: OPEN MOUTH_2
+  - first:
+      213: 8401420093639743459
+    second: OPEN MOUTH_3
+  - first:
+      213: -4755961111755436733
+    second: OPEN MOUTH_4
+  - first:
+      213: 8272303538174484739
+    second: OPEN MOUTH_5
+  - first:
+      213: 4560860725589374313
+    second: OPEN MOUTH_6
+  - first:
+      213: -7157551782895602090
+    second: OPEN MOUTH_7
+  - first:
+      213: 623143525793282355
+    second: OPEN MOUTH_8
+  - first:
+      213: -2888890159541034785
+    second: OPEN MOUTH_9
+  - first:
+      213: 6471010023091926096
+    second: OPEN MOUTH_10
+  - first:
+      213: 6159142967968211089
+    second: OPEN MOUTH_11
+  - first:
+      213: -4148415031400313313
+    second: OPEN MOUTH_12
+  - first:
+      213: 4169697069359514
+    second: OPEN MOUTH_13
+  - first:
+      213: -543758350740733375
+    second: OPEN MOUTH_14
+  - first:
+      213: 7356859273479013678
+    second: OPEN MOUTH_15
+  - first:
+      213: -1205179337670778682
+    second: OPEN MOUTH_16
+  - first:
+      213: 4358405141141100456
+    second: OPEN MOUTH_17
+  - first:
+      213: -7814841798589694585
+    second: OPEN MOUTH_18
+  - first:
+      213: -9116793274762236997
+    second: OPEN MOUTH_19
+  - first:
+      213: 4261331376568759049
+    second: OPEN MOUTH_20
+  - first:
+      213: -3303176845373333469
+    second: OPEN MOUTH_21
+  - first:
+      213: -6398208664383719275
+    second: OPEN MOUTH_22
+  - first:
+      213: 2638571305143758339
+    second: OPEN MOUTH_23
+  - first:
+      213: -2861197893596456353
+    second: OPEN MOUTH_24
+  - first:
+      213: -6201030514401578002
+    second: OPEN MOUTH_25
+  - first:
+      213: 495248813632309756
+    second: OPEN MOUTH_26
+  - first:
+      213: 6518457258796452209
+    second: OPEN MOUTH_27
+  - first:
+      213: 7082823530318044866
+    second: OPEN MOUTH_28
+  - first:
+      213: -8165768235866451275
+    second: OPEN MOUTH_29
+  - first:
+      213: -1239209018710168381
+    second: OPEN MOUTH_30
+  - first:
+      213: -1909041236040729444
+    second: OPEN MOUTH_31
+  - first:
+      213: -3034591579756786275
+    second: OPEN MOUTH_32
+  - first:
+      213: -6575304175369839930
+    second: OPEN MOUTH_33
+  - first:
+      213: 2250227852247764773
+    second: OPEN MOUTH_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OPEN MOUTH_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1916
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4eba1e5a37fd6a0800000000000000
+      internalID: -6422287387314101006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1916
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa35ae02e2d29ba0800000000000000
+      internalID: -6083568278273967373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1916
+        width: 183
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f45675c507e14ae0800000000000000
+      internalID: -1566717183374502670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d9320017d79470800000000000000
+      internalID: 8401420093639743459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dce38219e6ffdb0800000000000000
+      internalID: -4755961111755436733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_5
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1917
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e81b4d302dc270800000000000000
+      internalID: 8272303538174484739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_6
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1917
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f8ca5aae6b4f30800000000000000
+      internalID: 4560860725589374313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_7
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563b0763944bac90800000000000000
+      internalID: -7157551782895602090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3393ef23cb9d5a800800000000000000
+      internalID: 623143525793282355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06f65b4b998e7d0800000000000000
+      internalID: -2888890159541034785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054f264c455adc950800000000000000
+      internalID: 6471010023091926096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190279695eba97550800000000000000
+      internalID: 6159142967968211089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4e78128edd66c0800000000000000
+      internalID: -4148415031400313313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e3a04150de0000800000000000000
+      internalID: 4169697069359514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_14
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142427439ae2478f0800000000000000
+      internalID: -543758350740733375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_15
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25414ae780d81660800000000000000
+      internalID: 7356859273479013678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c02e7717c7564fe0800000000000000
+      internalID: -1205179337670778682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a793f0526a2c7c30800000000000000
+      internalID: 4358405141141100456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dbf2bf9ca1c8390800000000000000
+      internalID: -7814841798589694585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb6027c1d4aa7180800000000000000
+      internalID: -9116793274762236997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_20
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1405
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037b9a3f4a432b30800000000000000
+      internalID: 4261331376568759049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_21
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1405
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202a3df822c822d0800000000000000
+      internalID: -3303176845373333469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_22
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1405
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f4907e1ff437a0800000000000000
+      internalID: -6398208664383719275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_23
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1405
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee1ad4f961e9420800000000000000
+      internalID: 2638571305143758339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1149
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a5610dcabfa48d0800000000000000
+      internalID: -2861197893596456353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1149
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee37cb30a9381f9a0800000000000000
+      internalID: -6201030514401578002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1149
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ccfb0c2a7fd600800000000000000
+      internalID: 495248813632309756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1149
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17901223756367a50800000000000000
+      internalID: 6518457258796452209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_28
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce9263797e3b4260800000000000000
+      internalID: 7082823530318044866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b21307bd0d5dae80800000000000000
+      internalID: -8165768235866451275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_30
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cce15d86f17dcee0800000000000000
+      internalID: -1239209018710168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_31
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c38304c19b185e0800000000000000
+      internalID: -1909041236040729444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d84324907f2e5d0800000000000000
+      internalID: -3034591579756786275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca10f0a0b3dfb4a0800000000000000
+      internalID: -6575304175369839930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPEN MOUTH_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f0be43f4a6a3f10800000000000000
+      internalID: 2250227852247764773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OPEN MOUTH_0: -6422287387314101006
+      OPEN MOUTH_1: -6083568278273967373
+      OPEN MOUTH_10: 6471010023091926096
+      OPEN MOUTH_11: 6159142967968211089
+      OPEN MOUTH_12: -4148415031400313313
+      OPEN MOUTH_13: 4169697069359514
+      OPEN MOUTH_14: -543758350740733375
+      OPEN MOUTH_15: 7356859273479013678
+      OPEN MOUTH_16: -1205179337670778682
+      OPEN MOUTH_17: 4358405141141100456
+      OPEN MOUTH_18: -7814841798589694585
+      OPEN MOUTH_19: -9116793274762236997
+      OPEN MOUTH_2: -1566717183374502670
+      OPEN MOUTH_20: 4261331376568759049
+      OPEN MOUTH_21: -3303176845373333469
+      OPEN MOUTH_22: -6398208664383719275
+      OPEN MOUTH_23: 2638571305143758339
+      OPEN MOUTH_24: -2861197893596456353
+      OPEN MOUTH_25: -6201030514401578002
+      OPEN MOUTH_26: 495248813632309756
+      OPEN MOUTH_27: 6518457258796452209
+      OPEN MOUTH_28: 7082823530318044866
+      OPEN MOUTH_29: -8165768235866451275
+      OPEN MOUTH_3: 8401420093639743459
+      OPEN MOUTH_30: -1239209018710168381
+      OPEN MOUTH_31: -1909041236040729444
+      OPEN MOUTH_32: -3034591579756786275
+      OPEN MOUTH_33: -6575304175369839930
+      OPEN MOUTH_34: 2250227852247764773
+      OPEN MOUTH_4: -4755961111755436733
+      OPEN MOUTH_5: 8272303538174484739
+      OPEN MOUTH_6: 4560860725589374313
+      OPEN MOUTH_7: -7157551782895602090
+      OPEN MOUTH_8: 623143525793282355
+      OPEN MOUTH_9: -2888890159541034785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

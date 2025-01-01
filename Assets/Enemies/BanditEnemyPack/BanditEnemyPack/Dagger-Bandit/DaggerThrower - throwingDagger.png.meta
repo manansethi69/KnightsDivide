@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: bf179f2565e495947a56353847b2f6db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2582059968805050633
+    second: DaggerThrower - throwingDagger_0
+  - first:
+      213: 4034835767173814493
+    second: DaggerThrower - throwingDagger_1
+  - first:
+      213: -8129866955015113113
+    second: DaggerThrower - throwingDagger_2
+  - first:
+      213: 4442569014806947156
+    second: DaggerThrower - throwingDagger_3
+  - first:
+      213: -2036750569991250009
+    second: DaggerThrower - throwingDagger_4
+  - first:
+      213: -4529277559644354537
+    second: DaggerThrower - throwingDagger_5
+  - first:
+      213: -1986399369162806375
+    second: DaggerThrower - throwingDagger_6
+  - first:
+      213: -2846947114876703474
+    second: DaggerThrower - throwingDagger_7
+  - first:
+      213: 8222835153079239440
+    second: DaggerThrower - throwingDagger_8
+  - first:
+      213: -5509402408467507826
+    second: DaggerThrower - throwingDagger_9
+  - first:
+      213: -6099771928062876914
+    second: DaggerThrower - throwingDagger_10
+  - first:
+      213: 4981049367882724541
+    second: DaggerThrower - throwingDagger_11
+  - first:
+      213: 6003508510551341842
+    second: DaggerThrower - throwingDagger_12
+  - first:
+      213: -4775607476131494881
+    second: DaggerThrower - throwingDagger_13
+  - first:
+      213: -1267388784270771146
+    second: DaggerThrower - throwingDagger_14
+  - first:
+      213: -5965908112877426428
+    second: DaggerThrower - throwingDagger_15
+  - first:
+      213: 7913941047437636796
+    second: DaggerThrower - throwingDagger_16
+  - first:
+      213: 437390102333304733
+    second: DaggerThrower - throwingDagger_17
+  - first:
+      213: 5648631407200028745
+    second: DaggerThrower - throwingDagger_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f66e92832eaa2cd0800000000000000
+      internalID: -2582059968805050633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 47
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89f65b0cd9ef730800000000000000
+      internalID: 4034835767173814493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766332b0419ec2f80800000000000000
+      internalID: -8129866955015113113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 47
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455a9b13bfc27ad30800000000000000
+      internalID: 4442569014806947156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 47
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd893d5220cb3e0800000000000000
+      internalID: -2036750569991250009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 47
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71800408e06c421c0800000000000000
+      internalID: -4529277559644354537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 47
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99badf25c44ee64e0800000000000000
+      internalID: -1986399369162806375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 47
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d637bceac9d78d0800000000000000
+      internalID: -2846947114876703474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 47
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01302e951016d1270800000000000000
+      internalID: 8222835153079239440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_9
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 47
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85dc9613bbaa83b0800000000000000
+      internalID: -5509402408467507826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03a9e8dfb1495ba0800000000000000
+      internalID: -6099771928062876914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_11
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 68
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47555620e302540800000000000000
+      internalID: 4981049367882724541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_12
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7271be2fb05350800000000000000
+      internalID: 6003508510551341842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_13
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148b7e7d42a9bdb0800000000000000
+      internalID: -4775607476131494881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_14
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cf9399d94596ee0800000000000000
+      internalID: -1267388784270771146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_15
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409e1591e26d43da0800000000000000
+      internalID: -5965908112877426428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_16
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb437e9e377f3dd60800000000000000
+      internalID: 7913941047437636796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_17
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f29dd0bfbe11600800000000000000
+      internalID: 437390102333304733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerThrower - throwingDagger_18
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 68
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c54d4658f36e40800000000000000
+      internalID: 5648631407200028745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DaggerThrower - throwingDagger_0: -2582059968805050633
+      DaggerThrower - throwingDagger_1: 4034835767173814493
+      DaggerThrower - throwingDagger_10: -6099771928062876914
+      DaggerThrower - throwingDagger_11: 4981049367882724541
+      DaggerThrower - throwingDagger_12: 6003508510551341842
+      DaggerThrower - throwingDagger_13: -4775607476131494881
+      DaggerThrower - throwingDagger_14: -1267388784270771146
+      DaggerThrower - throwingDagger_15: -5965908112877426428
+      DaggerThrower - throwingDagger_16: 7913941047437636796
+      DaggerThrower - throwingDagger_17: 437390102333304733
+      DaggerThrower - throwingDagger_18: 5648631407200028745
+      DaggerThrower - throwingDagger_2: -8129866955015113113
+      DaggerThrower - throwingDagger_3: 4442569014806947156
+      DaggerThrower - throwingDagger_4: -2036750569991250009
+      DaggerThrower - throwingDagger_5: -4529277559644354537
+      DaggerThrower - throwingDagger_6: -1986399369162806375
+      DaggerThrower - throwingDagger_7: -2846947114876703474
+      DaggerThrower - throwingDagger_8: 8222835153079239440
+      DaggerThrower - throwingDagger_9: -5509402408467507826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

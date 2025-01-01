@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: fe498c251ef1dd54cb4bd10f7393bcef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1978299198677065100
+    second: Dragon_LightningCharge_0
+  - first:
+      213: -4778877006075025924
+    second: Dragon_LightningCharge_1
+  - first:
+      213: -5723695345319078351
+    second: Dragon_LightningCharge_2
+  - first:
+      213: -875041142280200243
+    second: Dragon_LightningCharge_3
+  - first:
+      213: -1696025820291462354
+    second: Dragon_LightningCharge_4
+  - first:
+      213: 5089865433822606287
+    second: Dragon_LightningCharge_5
+  - first:
+      213: 84569971917048822
+    second: Dragon_LightningCharge_6
+  - first:
+      213: -4566731376782164309
+    second: Dragon_LightningCharge_7
+  - first:
+      213: -3959669638119942424
+    second: Dragon_LightningCharge_8
+  - first:
+      213: 886384152490731987
+    second: Dragon_LightningCharge_9
+  - first:
+      213: 6380665204888681444
+    second: Dragon_LightningCharge_10
+  - first:
+      213: -5990205313883632366
+    second: Dragon_LightningCharge_11
+  - first:
+      213: -4537862526052162053
+    second: Dragon_LightningCharge_12
+  - first:
+      213: -5919004179412835828
+    second: Dragon_LightningCharge_13
+  - first:
+      213: -7058297407318861836
+    second: Dragon_LightningCharge_14
+  - first:
+      213: -2906310661601694671
+    second: Dragon_LightningCharge_15
+  - first:
+      213: -2752278057861071526
+    second: Dragon_LightningCharge_16
+  - first:
+      213: 7983752999800886064
+    second: Dragon_LightningCharge_17
+  - first:
+      213: -8954744144136464315
+    second: Dragon_LightningCharge_18
+  - first:
+      213: -1602209557986979395
+    second: Dragon_LightningCharge_19
+  - first:
+      213: 7828130116790716158
+    second: Dragon_LightningCharge_20
+  - first:
+      213: 5644175198219080518
+    second: Dragon_LightningCharge_21
+  - first:
+      213: -7525796198384783084
+    second: Dragon_LightningCharge_22
+  - first:
+      213: 5635511231536534701
+    second: Dragon_LightningCharge_23
+  - first:
+      213: 2673859360455438496
+    second: Dragon_LightningCharge_24
+  - first:
+      213: -6698096293947051861
+    second: Dragon_LightningCharge_25
+  - first:
+      213: -4098282257157745057
+    second: Dragon_LightningCharge_26
+  - first:
+      213: -5560509907655100809
+    second: Dragon_LightningCharge_27
+  - first:
+      213: 1323786463475417778
+    second: Dragon_LightningCharge_28
+  - first:
+      213: -6348651950171376976
+    second: Dragon_LightningCharge_29
+  - first:
+      213: -4464746249268949720
+    second: Dragon_LightningCharge_30
+  - first:
+      213: -8284536472835671127
+    second: Dragon_LightningCharge_31
+  - first:
+      213: 4194983998976347802
+    second: Dragon_LightningCharge_32
+  - first:
+      213: -8408728312465461325
+    second: Dragon_LightningCharge_33
+  - first:
+      213: -2009946582522277465
+    second: Dragon_LightningCharge_34
+  - first:
+      213: 5688450789251183931
+    second: Dragon_LightningCharge_35
+  - first:
+      213: 1867225101601451331
+    second: Dragon_LightningCharge_36
+  - first:
+      213: -7874557093098617548
+    second: Dragon_LightningCharge_37
+  - first:
+      213: -6651231651957315225
+    second: Dragon_LightningCharge_38
+  - first:
+      213: 858972221631743809
+    second: Dragon_LightningCharge_39
+  - first:
+      213: 4423003498667219102
+    second: Dragon_LightningCharge_40
+  - first:
+      213: -2804919486749541400
+    second: Dragon_LightningCharge_41
+  - first:
+      213: -3141437074112481668
+    second: Dragon_LightningCharge_42
+  - first:
+      213: -8800948350493378853
+    second: Dragon_LightningCharge_43
+  - first:
+      213: -4344398065446107315
+    second: Dragon_LightningCharge_44
+  - first:
+      213: -3824850784868678283
+    second: Dragon_LightningCharge_45
+  - first:
+      213: -5325282839050966771
+    second: Dragon_LightningCharge_46
+  - first:
+      213: -1377258325527838104
+    second: Dragon_LightningCharge_47
+  - first:
+      213: -1763119619618535678
+    second: Dragon_LightningCharge_48
+  - first:
+      213: -2351527055436616341
+    second: Dragon_LightningCharge_49
+  - first:
+      213: -1215056579094124513
+    second: Dragon_LightningCharge_50
+  - first:
+      213: 3021898107804739830
+    second: Dragon_LightningCharge_51
+  - first:
+      213: 8655813241189408875
+    second: Dragon_LightningCharge_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1916
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1694c3a4547b10800000000000000
+      internalID: 1978299198677065100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1916
+        width: 182
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ad9bbea40eadb0800000000000000
+      internalID: -4778877006075025924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1916
+        width: 183
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13613bba8695190b0800000000000000
+      internalID: -5723695345319078351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf598e97ba3bd3f0800000000000000
+      internalID: -875041142280200243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b03ab90818678e0800000000000000
+      internalID: -1696025820291462354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_5
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1917
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3398115a5d2a640800000000000000
+      internalID: 5089865433822606287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_6
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1917
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc7cef0f37c2100800000000000000
+      internalID: 84569971917048822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_7
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1917
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb4462206bf90c0800000000000000
+      internalID: -4566731376782164309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e616ff717d6c09c0800000000000000
+      internalID: -3959669638119942424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9eebfb0b11d4c00800000000000000
+      internalID: 886384152490731987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebb518923dac8850800000000000000
+      internalID: 6380665204888681444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d0f4621048edca0800000000000000
+      internalID: -5990205313883632366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5aa1f33164601c0800000000000000
+      internalID: -4537862526052162053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02ab0e1f097bdda0800000000000000
+      internalID: -5919004179412835828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_14
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d2bd87e3eb0e90800000000000000
+      internalID: -7058297407318861836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_15
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1661
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cec400ad5baa7d0800000000000000
+      internalID: -2906310661601694671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db61640b1fdc9d0800000000000000
+      internalID: -2752278057861071526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335797bd0dfbce60800000000000000
+      internalID: 7983752999800886064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5489c3a25ab5ab380800000000000000
+      internalID: -8954744144136464315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1405
+        width: 184
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1537855eec3c9e0800000000000000
+      internalID: -1602209557986979395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_20
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1405
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef609d2bdda13ac60800000000000000
+      internalID: 7828130116790716158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_21
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1405
+        width: 183
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431beb4073245e40800000000000000
+      internalID: 5644175198219080518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_22
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1405
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113a4f1b300f8790800000000000000
+      internalID: -7525796198384783084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_23
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1405
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4957b5b9b553e40800000000000000
+      internalID: 5635511231536534701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1149
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0bc4febe47b1520800000000000000
+      internalID: 2673859360455438496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1149
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0fcef98e49b03a0800000000000000
+      internalID: -6698096293947051861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1149
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5693d0300aff17c0800000000000000
+      internalID: -4098282257157745057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1149
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767d2823b915d2b0800000000000000
+      internalID: -5560509907655100809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_28
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b24ce956c80f5210800000000000000
+      internalID: 1323786463475417778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b17b10be05e7a0800000000000000
+      internalID: -6348651950171376976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_30
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d011801f80a02c0800000000000000
+      internalID: -4464746249268949720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_31
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1149
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abbcd7a8f9670d80800000000000000
+      internalID: -8284536472835671127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ece6998b3973a30800000000000000
+      internalID: 4194983998976347802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe9b2b6223e4b80800000000000000
+      internalID: -8408728312465461325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1df3b7b3c3b14e0800000000000000
+      internalID: -2009946582522277465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b357b97aadf61fe40800000000000000
+      internalID: 5688450789251183931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_36
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da5a04657b9e910800000000000000
+      internalID: 1867225101601451331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_37
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43503568b04f7b290800000000000000
+      internalID: -7874557093098617548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_38
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ef326d0412b3a0800000000000000
+      internalID: -6651231651957315225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_39
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 893
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c94e3faeabeb00800000000000000
+      internalID: 858972221631743809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989e5a7f3aa16d30800000000000000
+      internalID: 4423003498667219102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebf8b0869ce219d0800000000000000
+      internalID: -2804919486749541400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_42
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76784900af5764d0800000000000000
+      internalID: -3141437074112481668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_43
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6384aca10ccd580800000000000000
+      internalID: -8800948350493378853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_44
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47c0322af895b3c0800000000000000
+      internalID: -4344398065446107315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_45
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5754701e9766beac0800000000000000
+      internalID: -3824850784868678283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_46
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0922e1f87bc816b0800000000000000
+      internalID: -5325282839050966771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_47
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 637
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862c6f699def2ece0800000000000000
+      internalID: -1377258325527838104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 381
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078d102c042887e0800000000000000
+      internalID: -1763119619618535678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_49
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 381
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6deafc1a92bd5fd0800000000000000
+      internalID: -2351527055436616341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_50
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 381
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e71d9a70432fe0800000000000000
+      internalID: -1215056579094124513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_51
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 381
+        width: 179
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8602f7150ffe920800000000000000
+      internalID: 3021898107804739830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_LightningCharge_52
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 381
+        width: 200
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a73b4840af1870800000000000000
+      internalID: 8655813241189408875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_LightningCharge_0: 1978299198677065100
+      Dragon_LightningCharge_1: -4778877006075025924
+      Dragon_LightningCharge_10: 6380665204888681444
+      Dragon_LightningCharge_11: -5990205313883632366
+      Dragon_LightningCharge_12: -4537862526052162053
+      Dragon_LightningCharge_13: -5919004179412835828
+      Dragon_LightningCharge_14: -7058297407318861836
+      Dragon_LightningCharge_15: -2906310661601694671
+      Dragon_LightningCharge_16: -2752278057861071526
+      Dragon_LightningCharge_17: 7983752999800886064
+      Dragon_LightningCharge_18: -8954744144136464315
+      Dragon_LightningCharge_19: -1602209557986979395
+      Dragon_LightningCharge_2: -5723695345319078351
+      Dragon_LightningCharge_20: 7828130116790716158
+      Dragon_LightningCharge_21: 5644175198219080518
+      Dragon_LightningCharge_22: -7525796198384783084
+      Dragon_LightningCharge_23: 5635511231536534701
+      Dragon_LightningCharge_24: 2673859360455438496
+      Dragon_LightningCharge_25: -6698096293947051861
+      Dragon_LightningCharge_26: -4098282257157745057
+      Dragon_LightningCharge_27: -5560509907655100809
+      Dragon_LightningCharge_28: 1323786463475417778
+      Dragon_LightningCharge_29: -6348651950171376976
+      Dragon_LightningCharge_3: -875041142280200243
+      Dragon_LightningCharge_30: -4464746249268949720
+      Dragon_LightningCharge_31: -8284536472835671127
+      Dragon_LightningCharge_32: 4194983998976347802
+      Dragon_LightningCharge_33: -8408728312465461325
+      Dragon_LightningCharge_34: -2009946582522277465
+      Dragon_LightningCharge_35: 5688450789251183931
+      Dragon_LightningCharge_36: 1867225101601451331
+      Dragon_LightningCharge_37: -7874557093098617548
+      Dragon_LightningCharge_38: -6651231651957315225
+      Dragon_LightningCharge_39: 858972221631743809
+      Dragon_LightningCharge_4: -1696025820291462354
+      Dragon_LightningCharge_40: 4423003498667219102
+      Dragon_LightningCharge_41: -2804919486749541400
+      Dragon_LightningCharge_42: -3141437074112481668
+      Dragon_LightningCharge_43: -8800948350493378853
+      Dragon_LightningCharge_44: -4344398065446107315
+      Dragon_LightningCharge_45: -3824850784868678283
+      Dragon_LightningCharge_46: -5325282839050966771
+      Dragon_LightningCharge_47: -1377258325527838104
+      Dragon_LightningCharge_48: -1763119619618535678
+      Dragon_LightningCharge_49: -2351527055436616341
+      Dragon_LightningCharge_5: 5089865433822606287
+      Dragon_LightningCharge_50: -1215056579094124513
+      Dragon_LightningCharge_51: 3021898107804739830
+      Dragon_LightningCharge_52: 8655813241189408875
+      Dragon_LightningCharge_6: 84569971917048822
+      Dragon_LightningCharge_7: -4566731376782164309
+      Dragon_LightningCharge_8: -3959669638119942424
+      Dragon_LightningCharge_9: 886384152490731987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 2f91d52180c32ef47af48d7aaaa02f27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 918829054126064281
+    second: NecroSkeleton- Shield_0
+  - first:
+      213: 7192014622864197335
+    second: NecroSkeleton- Shield_1
+  - first:
+      213: 594878402361282872
+    second: NecroSkeleton- Shield_2
+  - first:
+      213: -6191978107902277432
+    second: NecroSkeleton- Shield_3
+  - first:
+      213: -3233973384114145683
+    second: NecroSkeleton- Shield_4
+  - first:
+      213: 8160378750724823163
+    second: NecroSkeleton- Shield_5
+  - first:
+      213: 6972762073967498544
+    second: NecroSkeleton- Shield_6
+  - first:
+      213: 3963227218238566113
+    second: NecroSkeleton- Shield_7
+  - first:
+      213: 8811399062769954312
+    second: NecroSkeleton- Shield_8
+  - first:
+      213: 1570148748892011292
+    second: NecroSkeleton- Shield_9
+  - first:
+      213: 422021718121220671
+    second: NecroSkeleton- Shield_10
+  - first:
+      213: 246009367174925165
+    second: NecroSkeleton- Shield_11
+  - first:
+      213: 2933324203415138568
+    second: NecroSkeleton- Shield_12
+  - first:
+      213: -7355064099429611652
+    second: NecroSkeleton- Shield_13
+  - first:
+      213: -5158704749068292666
+    second: NecroSkeleton- Shield_14
+  - first:
+      213: 456354362245970666
+    second: NecroSkeleton- Shield_15
+  - first:
+      213: 6487671904340781090
+    second: NecroSkeleton- Shield_16
+  - first:
+      213: 4324585702382570420
+    second: NecroSkeleton- Shield_17
+  - first:
+      213: -7579724429144341743
+    second: NecroSkeleton- Shield_18
+  - first:
+      213: -4058877641723892450
+    second: NecroSkeleton- Shield_19
+  - first:
+      213: 7774332781342406708
+    second: NecroSkeleton- Shield_20
+  - first:
+      213: -998615260969467442
+    second: NecroSkeleton- Shield_21
+  - first:
+      213: 1512766066315853889
+    second: NecroSkeleton- Shield_22
+  - first:
+      213: -3552663296335076498
+    second: NecroSkeleton- Shield_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9920e74182650cc00800000000000000
+      internalID: 918829054126064281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d64c3fc13b2fc360800000000000000
+      internalID: 7192014622864197335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 47
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831db4151ce614800800000000000000
+      internalID: 594878402361282872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 47
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c84d75a7bca11aa0800000000000000
+      internalID: -6191978107902277432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 47
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66feca675e9e13d0800000000000000
+      internalID: -3233973384114145683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78599dfc3d7f3170800000000000000
+      internalID: 8160378750724823163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035162ab92a34c060800000000000000
+      internalID: 6972762073967498544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eee44b2826300730800000000000000
+      internalID: 3963227218238566113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eec9643c0684a70800000000000000
+      internalID: 8811399062769954312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7b36d7f94ac510800000000000000
+      internalID: 1570148748892011292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 47
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8d1444825bd500800000000000000
+      internalID: 422021718121220671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 47
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b41ed47300a6300800000000000000
+      internalID: 246009367174925165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_12
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 47
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017d9352d245b820800000000000000
+      internalID: 2933324203415138568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_13
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 46
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77054d9b209de990800000000000000
+      internalID: -7355064099429611652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 46
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde9aadc599868b0800000000000000
+      internalID: -5158704749068292666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 46
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafe55efdb455600800000000000000
+      internalID: 456354362245970666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 46
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a38d4937d80a50800000000000000
+      internalID: 6487671904340781090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_17
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 46
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb0f3f98c3040c30800000000000000
+      internalID: 4324585702382570420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_18
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11340817ac86fc690800000000000000
+      internalID: -7579724429144341743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_19
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 46
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1da54a2a48fba7c0800000000000000
+      internalID: -4058877641723892450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_20
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b695797af3eb60800000000000000
+      internalID: 7774332781342406708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_21
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 46
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec181a606b43422f0800000000000000
+      internalID: -998615260969467442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_22
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 46
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140850be8bc6ef410800000000000000
+      internalID: 1512766066315853889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroSkeleton- Shield_23
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 46
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6321670e8762bec0800000000000000
+      internalID: -3552663296335076498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NecroSkeleton- Shield_0: 918829054126064281
+      NecroSkeleton- Shield_1: 7192014622864197335
+      NecroSkeleton- Shield_10: 422021718121220671
+      NecroSkeleton- Shield_11: 246009367174925165
+      NecroSkeleton- Shield_12: 2933324203415138568
+      NecroSkeleton- Shield_13: -7355064099429611652
+      NecroSkeleton- Shield_14: -5158704749068292666
+      NecroSkeleton- Shield_15: 456354362245970666
+      NecroSkeleton- Shield_16: 6487671904340781090
+      NecroSkeleton- Shield_17: 4324585702382570420
+      NecroSkeleton- Shield_18: -7579724429144341743
+      NecroSkeleton- Shield_19: -4058877641723892450
+      NecroSkeleton- Shield_2: 594878402361282872
+      NecroSkeleton- Shield_20: 7774332781342406708
+      NecroSkeleton- Shield_21: -998615260969467442
+      NecroSkeleton- Shield_22: 1512766066315853889
+      NecroSkeleton- Shield_23: -3552663296335076498
+      NecroSkeleton- Shield_3: -6191978107902277432
+      NecroSkeleton- Shield_4: -3233973384114145683
+      NecroSkeleton- Shield_5: 8160378750724823163
+      NecroSkeleton- Shield_6: 6972762073967498544
+      NecroSkeleton- Shield_7: 3963227218238566113
+      NecroSkeleton- Shield_8: 8811399062769954312
+      NecroSkeleton- Shield_9: 1570148748892011292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

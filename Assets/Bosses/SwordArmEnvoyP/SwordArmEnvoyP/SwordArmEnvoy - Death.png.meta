@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 0148600c06cba4a41b63c0706d331450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3332928222257163908
+    second: SwordArmEnvoy - Death_0
+  - first:
+      213: -8022565464449081755
+    second: SwordArmEnvoy - Death_1
+  - first:
+      213: -5225864228710548368
+    second: SwordArmEnvoy - Death_2
+  - first:
+      213: -3341048554946461718
+    second: SwordArmEnvoy - Death_3
+  - first:
+      213: 5339805963270767062
+    second: SwordArmEnvoy - Death_4
+  - first:
+      213: -585097271339853265
+    second: SwordArmEnvoy - Death_5
+  - first:
+      213: -5583856801028960028
+    second: SwordArmEnvoy - Death_6
+  - first:
+      213: 1331998437147724030
+    second: SwordArmEnvoy - Death_7
+  - first:
+      213: -9158000568904167378
+    second: SwordArmEnvoy - Death_8
+  - first:
+      213: 9189716469236549649
+    second: SwordArmEnvoy - Death_9
+  - first:
+      213: -2004968530905647764
+    second: SwordArmEnvoy - Death_10
+  - first:
+      213: -5816677096226892471
+    second: SwordArmEnvoy - Death_11
+  - first:
+      213: 7479724504845193454
+    second: SwordArmEnvoy - Death_12
+  - first:
+      213: 366425071173438543
+    second: SwordArmEnvoy - Death_13
+  - first:
+      213: 1282926075775620667
+    second: SwordArmEnvoy - Death_14
+  - first:
+      213: 7355866438211473385
+    second: SwordArmEnvoy - Death_15
+  - first:
+      213: -4139187261269847133
+    second: SwordArmEnvoy - Death_16
+  - first:
+      213: -2974392856064469520
+    second: SwordArmEnvoy - Death_17
+  - first:
+      213: -4291501652407632349
+    second: SwordArmEnvoy - Death_18
+  - first:
+      213: -4760108034782876137
+    second: SwordArmEnvoy - Death_19
+  - first:
+      213: 1842958046828514925
+    second: SwordArmEnvoy - Death_20
+  - first:
+      213: -6641053751249263821
+    second: SwordArmEnvoy - Death_21
+  - first:
+      213: 8035780943194952784
+    second: SwordArmEnvoy - Death_22
+  - first:
+      213: -4017939162133051043
+    second: SwordArmEnvoy - Death_23
+  - first:
+      213: -6391765616176086572
+    second: SwordArmEnvoy - Death_24
+  - first:
+      213: 8715836487215772001
+    second: SwordArmEnvoy - Death_25
+  - first:
+      213: 3870964737512739742
+    second: SwordArmEnvoy - Death_26
+  - first:
+      213: -8440268416799299717
+    second: SwordArmEnvoy - Death_27
+  - first:
+      213: -731540790540012513
+    second: SwordArmEnvoy - Death_28
+  - first:
+      213: -5992823559016249104
+    second: SwordArmEnvoy - Death_29
+  - first:
+      213: 2210650991999433170
+    second: SwordArmEnvoy - Death_30
+  - first:
+      213: 1363933816111925345
+    second: SwordArmEnvoy - Death_31
+  - first:
+      213: -8844327337424191546
+    second: SwordArmEnvoy - Death_32
+  - first:
+      213: -2168126424832513180
+    second: SwordArmEnvoy - Death_33
+  - first:
+      213: -4979308902068417473
+    second: SwordArmEnvoy - Death_34
+  - first:
+      213: 6595217416125646504
+    second: SwordArmEnvoy - Death_35
+  - first:
+      213: 7249303160811174803
+    second: SwordArmEnvoy - Death_36
+  - first:
+      213: -3495229745025759730
+    second: SwordArmEnvoy - Death_37
+  - first:
+      213: -8160345685456274608
+    second: SwordArmEnvoy - Death_38
+  - first:
+      213: 2933434835741837715
+    second: SwordArmEnvoy - Death_39
+  - first:
+      213: -966119174362474968
+    second: SwordArmEnvoy - Death_40
+  - first:
+      213: -5381864142025104377
+    second: SwordArmEnvoy - Death_41
+  - first:
+      213: -95000955723724039
+    second: SwordArmEnvoy - Death_42
+  - first:
+      213: 6476513325398166947
+    second: SwordArmEnvoy - Death_43
+  - first:
+      213: -8954593537891676772
+    second: SwordArmEnvoy - Death_44
+  - first:
+      213: 2766292937858919044
+    second: SwordArmEnvoy - Death_45
+  - first:
+      213: -1424434418347890902
+    second: SwordArmEnvoy - Death_46
+  - first:
+      213: -8168599154232859423
+    second: SwordArmEnvoy - Death_47
+  - first:
+      213: 1360721153881506846
+    second: SwordArmEnvoy - Death_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ebbf40df1b494aa8d89d9205c2f92
+      internalID: 88190682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30567cf42324445ba0873c27d88ba5
+      internalID: -307346549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02efa092d79f144b9baf7b416c0c04
+      internalID: 2012111504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28913843d8245641983eea7a78dd9c9
+      internalID: 108256240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396c804a55faba44858d0f226f4354b
+      internalID: 1821203071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948df828c7938e641985647ebe956b2d
+      internalID: -533734721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a59c32075bcc640bdcf57eeb5085bf
+      internalID: 1271685809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e3a6d7750d7948845f3d2d5851e79
+      internalID: -611496807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5515928088586d84ca4ac74ceb164a8d
+      internalID: 1061120171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a92acf87de2a7744ae461fa689778e6
+      internalID: -2007448608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325dc7e01fcbf9747b512b0495993c01
+      internalID: -1776064212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab7c39e2637fa4db6098d7b5839014
+      internalID: -900335703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616298de5fd72c4b877f1b68e7b5826
+      internalID: -2012441933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308daacce7714b140b51a72e51de0fa7
+      internalID: -57272028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dec2ff316b9594e989aae6084f67d6
+      internalID: -909892878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ccb3d98d138348ae8d9c598daa737
+      internalID: -329785369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a7561d31fe024dab724f5c6646955
+      internalID: 1791322343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0e879185a2a549bfa177e8a20af0f
+      internalID: 1460515654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb30b7c460283429c54b83d06e7bc0
+      internalID: -29260512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bc061ade13ce4bb5dfcedc29421c5
+      internalID: 855260346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06072aa5f29bc24f98ca63466d93a2a
+      internalID: -236576821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a00b8d9e5062458cf48003cf0c577
+      internalID: 731804878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e860c15f31844e87a911e1ba2c32a
+      internalID: 1472994695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f674b92f681f4a04996dd424a88fd032
+      internalID: -440970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8a8194fb575c4b973cb9c619fde33
+      internalID: -559737804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f4cbde97ab322429c5afd1a0b80510
+      internalID: -1230582117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e000240e2a26469a1f398b71124d5
+      internalID: -202206769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c0437661bf994b9903ab4a77b067b
+      internalID: 456618979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9968ddef6413448a9e8ce06ae967f3
+      internalID: 1085579326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordArmEnvoy - Death_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab59561df4b32c34b95d9206412dd304
+      internalID: -1646205426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f33e90b0698562c4b807f743c2998a92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SwordArmEnvoy - Death_0: 88190682
+      SwordArmEnvoy - Death_1: -307346549
+      SwordArmEnvoy - Death_10: -1776064212
+      SwordArmEnvoy - Death_11: -900335703
+      SwordArmEnvoy - Death_12: -2012441933
+      SwordArmEnvoy - Death_13: -57272028
+      SwordArmEnvoy - Death_14: -909892878
+      SwordArmEnvoy - Death_15: -329785369
+      SwordArmEnvoy - Death_16: 1791322343
+      SwordArmEnvoy - Death_17: 1460515654
+      SwordArmEnvoy - Death_18: -29260512
+      SwordArmEnvoy - Death_19: 855260346
+      SwordArmEnvoy - Death_2: 2012111504
+      SwordArmEnvoy - Death_20: -236576821
+      SwordArmEnvoy - Death_21: 731804878
+      SwordArmEnvoy - Death_22: 1472994695
+      SwordArmEnvoy - Death_23: -440970862
+      SwordArmEnvoy - Death_24: -559737804
+      SwordArmEnvoy - Death_25: -1230582117
+      SwordArmEnvoy - Death_26: -202206769
+      SwordArmEnvoy - Death_27: 456618979
+      SwordArmEnvoy - Death_28: 1085579326
+      SwordArmEnvoy - Death_29: -1646205426
+      SwordArmEnvoy - Death_3: 108256240
+      SwordArmEnvoy - Death_4: 1821203071
+      SwordArmEnvoy - Death_5: -533734721
+      SwordArmEnvoy - Death_6: 1271685809
+      SwordArmEnvoy - Death_7: -611496807
+      SwordArmEnvoy - Death_8: 1061120171
+      SwordArmEnvoy - Death_9: -2007448608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

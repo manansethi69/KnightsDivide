@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 2807bff5ca6e83149ad784e65c6ce5f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -186792459488551270
+    second: CrossbowSkeleton - idle_0
+  - first:
+      213: 1057326090563203239
+    second: CrossbowSkeleton - idle_1
+  - first:
+      213: 2713412300926717242
+    second: CrossbowSkeleton - idle_2
+  - first:
+      213: -5448848766965211285
+    second: CrossbowSkeleton - idle_3
+  - first:
+      213: -4278109498012963103
+    second: CrossbowSkeleton - idle_4
+  - first:
+      213: -2911425339675415489
+    second: CrossbowSkeleton - idle_5
+  - first:
+      213: 8238276036785115120
+    second: CrossbowSkeleton - idle_6
+  - first:
+      213: 3538301425832906054
+    second: CrossbowSkeleton - idle_7
+  - first:
+      213: -7633257634025411860
+    second: CrossbowSkeleton - idle_8
+  - first:
+      213: 1546789204922556680
+    second: CrossbowSkeleton - idle_9
+  - first:
+      213: -3240411818249707118
+    second: CrossbowSkeleton - idle_10
+  - first:
+      213: -8844004529815731025
+    second: CrossbowSkeleton - idle_11
+  - first:
+      213: -1798827934753621675
+    second: CrossbowSkeleton - idle_12
+  - first:
+      213: 6102794845870080515
+    second: CrossbowSkeleton - idle_13
+  - first:
+      213: 7336998652730072599
+    second: CrossbowSkeleton - idle_14
+  - first:
+      213: -8811570921152316456
+    second: CrossbowSkeleton - idle_15
+  - first:
+      213: 69607703687641634
+    second: CrossbowSkeleton - idle_16
+  - first:
+      213: -5350331447672617173
+    second: CrossbowSkeleton - idle_17
+  - first:
+      213: 6532637515172727377
+    second: CrossbowSkeleton - idle_18
+  - first:
+      213: -7141658679996191598
+    second: CrossbowSkeleton - idle_19
+  - first:
+      213: -6619333207516364447
+    second: CrossbowSkeleton - idle_20
+  - first:
+      213: -2227196791442596434
+    second: CrossbowSkeleton - idle_21
+  - first:
+      213: -4866209379410916107
+    second: CrossbowSkeleton - idle_22
+  - first:
+      213: 136863969087596811
+    second: CrossbowSkeleton - idle_23
+  - first:
+      213: 5633726158101458628
+    second: CrossbowSkeleton - idle_24
+  - first:
+      213: -3303110248526339803
+    second: CrossbowSkeleton - idle_25
+  - first:
+      213: -7164848956569342058
+    second: CrossbowSkeleton - idle_26
+  - first:
+      213: -7519173253048259487
+    second: CrossbowSkeleton - idle_27
+  - first:
+      213: -2470982353287817768
+    second: CrossbowSkeleton - idle_28
+  - first:
+      213: -1102438619458634917
+    second: CrossbowSkeleton - idle_29
+  - first:
+      213: 2880781918425296417
+    second: CrossbowSkeleton - idle_30
+  - first:
+      213: -3879357087079946457
+    second: CrossbowSkeleton - idle_31
+  - first:
+      213: 6586708234600648831
+    second: CrossbowSkeleton - idle_32
+  - first:
+      213: 8030734740147701010
+    second: CrossbowSkeleton - idle_33
+  - first:
+      213: 8632280556529497139
+    second: CrossbowSkeleton - idle_34
+  - first:
+      213: -3075866916967053311
+    second: CrossbowSkeleton - idle_35
+  - first:
+      213: 6644274043519895578
+    second: CrossbowSkeleton - idle_36
+  - first:
+      213: -1319329036749410124
+    second: CrossbowSkeleton - idle_37
+  - first:
+      213: -3737365868083750942
+    second: CrossbowSkeleton - idle_38
+  - first:
+      213: 7696864634964693171
+    second: CrossbowSkeleton - idle_39
+  - first:
+      213: -1865451574424298930
+    second: CrossbowSkeleton - idle_40
+  - first:
+      213: 6419025256760286176
+    second: CrossbowSkeleton - idle_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e967d6f31686df0800000000000000
+      internalID: -186792459488551270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b5c73a706cae00800000000000000
+      internalID: 1057326090563203239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d89e58c1af7a520800000000000000
+      internalID: 2713412300926717242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f963a6aecc164b0800000000000000
+      internalID: -5448848766965211285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee66b4f31a11a4c0800000000000000
+      internalID: -4278109498012963103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c6396341a8897d0800000000000000
+      internalID: -2911425339675415489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff803e386c345270800000000000000
+      internalID: 8238276036785115120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d470b66629a1130800000000000000
+      internalID: 3538301425832906054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea60e4ef98311690800000000000000
+      internalID: -7633257634025411860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80161dd269c477510800000000000000
+      internalID: 1546789204922556680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291af37ae9eb703d0800000000000000
+      internalID: -3240411818249707118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44368dcb8c34580800000000000000
+      internalID: -8844004529815731025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_12
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f5f026874907e0800000000000000
+      internalID: -1798827934753621675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302cb2d049b71b450800000000000000
+      internalID: 6102794845870080515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_14
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ede7dc66142d560800000000000000
+      internalID: 7336998652730072599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_15
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbfd83dee207b580800000000000000
+      internalID: -8811570921152316456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_16
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22abee376db47f000800000000000000
+      internalID: 69607703687641634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_17
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274fd645edcfb5b0800000000000000
+      internalID: -5350331447672617173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_18
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ac24a653798aa50800000000000000
+      internalID: 6532637515172727377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_19
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cedb7c44bb3ec90800000000000000
+      internalID: -7141658679996191598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_20
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614a0cb4876324a0800000000000000
+      internalID: -6619333207516364447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_21
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9c2181586711e0800000000000000
+      internalID: -2227196791442596434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_22
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc9890a50c77cb0800000000000000
+      internalID: -4866209379410916107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_23
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0924040e0d36e100800000000000000
+      internalID: 136863969087596811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_24
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea67f87140f2e40800000000000000
+      internalID: 5633726158101458628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_25
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a2a6cabef822d0800000000000000
+      internalID: -3303110248526339803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_26
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f2b52c5d7519c90800000000000000
+      internalID: -7164848956569342058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_27
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca07fb3c786a790800000000000000
+      internalID: -7519173253048259487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_28
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5550a34ae45bdd0800000000000000
+      internalID: -2470982353287817768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_29
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bfe74aae953b0f0800000000000000
+      internalID: -1102438619458634917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_30
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eab1b44e79af720800000000000000
+      internalID: 2880781918425296417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_31
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727a4b37841c92ac0800000000000000
+      internalID: -3879357087079946457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_32
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701382dd30b86b50800000000000000
+      internalID: 6586708234600648831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_33
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21584ef82b6e27f60800000000000000
+      internalID: 8030734740147701010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_34
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b37d2e650cc770800000000000000
+      internalID: 8632280556529497139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_35
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088dcde5535055d0800000000000000
+      internalID: -3075866916967053311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_36
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a180a5a2a04353c50800000000000000
+      internalID: 6644274043519895578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_37
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b071be2b3dc0bde0800000000000000
+      internalID: -1319329036749410124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_38
+      rect:
+        serializedVersion: 2
+        x: 4916
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d23d5b85322cc0800000000000000
+      internalID: -3737365868083750942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_39
+      rect:
+        serializedVersion: 2
+        x: 5044
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b056531b91c0da60800000000000000
+      internalID: 7696864634964693171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_40
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1fb83da59c16e0800000000000000
+      internalID: -1865451574424298930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - idle_41
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb15792675f41950800000000000000
+      internalID: 6419025256760286176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrossbowSkeleton - idle_0: -186792459488551270
+      CrossbowSkeleton - idle_1: 1057326090563203239
+      CrossbowSkeleton - idle_10: -3240411818249707118
+      CrossbowSkeleton - idle_11: -8844004529815731025
+      CrossbowSkeleton - idle_12: -1798827934753621675
+      CrossbowSkeleton - idle_13: 6102794845870080515
+      CrossbowSkeleton - idle_14: 7336998652730072599
+      CrossbowSkeleton - idle_15: -8811570921152316456
+      CrossbowSkeleton - idle_16: 69607703687641634
+      CrossbowSkeleton - idle_17: -5350331447672617173
+      CrossbowSkeleton - idle_18: 6532637515172727377
+      CrossbowSkeleton - idle_19: -7141658679996191598
+      CrossbowSkeleton - idle_2: 2713412300926717242
+      CrossbowSkeleton - idle_20: -6619333207516364447
+      CrossbowSkeleton - idle_21: -2227196791442596434
+      CrossbowSkeleton - idle_22: -4866209379410916107
+      CrossbowSkeleton - idle_23: 136863969087596811
+      CrossbowSkeleton - idle_24: 5633726158101458628
+      CrossbowSkeleton - idle_25: -3303110248526339803
+      CrossbowSkeleton - idle_26: -7164848956569342058
+      CrossbowSkeleton - idle_27: -7519173253048259487
+      CrossbowSkeleton - idle_28: -2470982353287817768
+      CrossbowSkeleton - idle_29: -1102438619458634917
+      CrossbowSkeleton - idle_3: -5448848766965211285
+      CrossbowSkeleton - idle_30: 2880781918425296417
+      CrossbowSkeleton - idle_31: -3879357087079946457
+      CrossbowSkeleton - idle_32: 6586708234600648831
+      CrossbowSkeleton - idle_33: 8030734740147701010
+      CrossbowSkeleton - idle_34: 8632280556529497139
+      CrossbowSkeleton - idle_35: -3075866916967053311
+      CrossbowSkeleton - idle_36: 6644274043519895578
+      CrossbowSkeleton - idle_37: -1319329036749410124
+      CrossbowSkeleton - idle_38: -3737365868083750942
+      CrossbowSkeleton - idle_39: 7696864634964693171
+      CrossbowSkeleton - idle_4: -4278109498012963103
+      CrossbowSkeleton - idle_40: -1865451574424298930
+      CrossbowSkeleton - idle_41: 6419025256760286176
+      CrossbowSkeleton - idle_5: -2911425339675415489
+      CrossbowSkeleton - idle_6: 8238276036785115120
+      CrossbowSkeleton - idle_7: 3538301425832906054
+      CrossbowSkeleton - idle_8: -7633257634025411860
+      CrossbowSkeleton - idle_9: 1546789204922556680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 3a4a774f190197c438fe5571513c0f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6167542242571197629
+    second: EliteSkeleton - idle2_0
+  - first:
+      213: -2973972842640672619
+    second: EliteSkeleton - idle2_1
+  - first:
+      213: -5466382641520813053
+    second: EliteSkeleton - idle2_2
+  - first:
+      213: 682783326407882028
+    second: EliteSkeleton - idle2_3
+  - first:
+      213: 212766813009233054
+    second: EliteSkeleton - idle2_4
+  - first:
+      213: -7068398894827224631
+    second: EliteSkeleton - idle2_5
+  - first:
+      213: 19557837171282429
+    second: EliteSkeleton - idle2_6
+  - first:
+      213: 1898026239378226143
+    second: EliteSkeleton - idle2_7
+  - first:
+      213: -2606946827392612228
+    second: EliteSkeleton - idle2_8
+  - first:
+      213: -6275105155829095254
+    second: EliteSkeleton - idle2_9
+  - first:
+      213: -4518915969252207307
+    second: EliteSkeleton - idle2_10
+  - first:
+      213: 6776675249974313924
+    second: EliteSkeleton - idle2_11
+  - first:
+      213: 1797861115350470387
+    second: EliteSkeleton - idle2_12
+  - first:
+      213: -6393182626264479782
+    second: EliteSkeleton - idle2_13
+  - first:
+      213: -3356817691030119354
+    second: EliteSkeleton - idle2_14
+  - first:
+      213: -3211186509828298987
+    second: EliteSkeleton - idle2_15
+  - first:
+      213: -443508724002596308
+    second: EliteSkeleton - idle2_16
+  - first:
+      213: 4854875539275721077
+    second: EliteSkeleton - idle2_17
+  - first:
+      213: 6746948830424968117
+    second: EliteSkeleton - idle2_18
+  - first:
+      213: 1564283465771334898
+    second: EliteSkeleton - idle2_19
+  - first:
+      213: 6298248937374703875
+    second: EliteSkeleton - idle2_20
+  - first:
+      213: 6310712567271380267
+    second: EliteSkeleton - idle2_21
+  - first:
+      213: 6984084491146290128
+    second: EliteSkeleton - idle2_22
+  - first:
+      213: 7937904646753491702
+    second: EliteSkeleton - idle2_23
+  - first:
+      213: 4902508278734715632
+    second: EliteSkeleton - idle2_24
+  - first:
+      213: -4024672883710819928
+    second: EliteSkeleton - idle2_25
+  - first:
+      213: -7400218372783590040
+    second: EliteSkeleton - idle2_26
+  - first:
+      213: 5980037598598565422
+    second: EliteSkeleton - idle2_27
+  - first:
+      213: -2083666825971659743
+    second: EliteSkeleton - idle2_28
+  - first:
+      213: 5949732891378531128
+    second: EliteSkeleton - idle2_29
+  - first:
+      213: 3169314476940338079
+    second: EliteSkeleton - idle2_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e356e10d786aa0800000000000000
+      internalID: -6167542242571197629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5987eb6d4735ab6d0800000000000000
+      internalID: -2973972842640672619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c5acd13f18324b0800000000000000
+      internalID: -5466382641520813053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f91d51dbb97900800000000000000
+      internalID: 682783326407882028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9448650a46e3f200800000000000000
+      internalID: 212766813009233054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c14f07b7a008ed90800000000000000
+      internalID: -7068398894827224631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15b21dfbb754000800000000000000
+      internalID: 19557837171282429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb728cfec4275a10800000000000000
+      internalID: 1898026239378226143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_8
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788ee43ca342dbd0800000000000000
+      internalID: -2606946827392612228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a5929b195ae8a0800000000000000
+      internalID: -6275105155829095254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535d1e24ed59941c0800000000000000
+      internalID: -4518915969252207307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_11
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c386e84c369b0e50800000000000000
+      internalID: 6776675249974313924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_12
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec3ffa82943f810800000000000000
+      internalID: 1797861115350470387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_13
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78e41264ad647a0800000000000000
+      internalID: -6393182626264479782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_14
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c176e58103a61d0800000000000000
+      internalID: -3356817691030119354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_15
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517682602e29f63d0800000000000000
+      internalID: -3211186509828298987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_16
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ad9035a2758d9f0800000000000000
+      internalID: -443508724002596308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_17
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579234ba49bff5340800000000000000
+      internalID: 4854875539275721077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_18
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bba733e63af1ad50800000000000000
+      internalID: 6746948830424968117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_19
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc3151368375b510800000000000000
+      internalID: 1564283465771334898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_20
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301633bf900e76750800000000000000
+      internalID: 6298248937374703875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_21
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ddc3f4a7249750800000000000000
+      internalID: 6310712567271380267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_22
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e61867d37ce060800000000000000
+      internalID: 6984084491146290128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_23
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1aaa283a192e60800000000000000
+      internalID: 7937904646753491702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_24
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf46e0e45390440800000000000000
+      internalID: 4902508278734715632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_25
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1054df55d7528c0800000000000000
+      internalID: -4024672883710819928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_26
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653ae519942d4990800000000000000
+      internalID: -7400218372783590040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_27
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e82f7238c5df250800000000000000
+      internalID: 5980037598598565422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_28
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c81bfbf045513e0800000000000000
+      internalID: -2083666825971659743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_29
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b331baa82b19250800000000000000
+      internalID: 5949732891378531128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteSkeleton - idle2_30
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 47
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93288b99baabfb20800000000000000
+      internalID: 3169314476940338079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EliteSkeleton - idle2_0: -6167542242571197629
+      EliteSkeleton - idle2_1: -2973972842640672619
+      EliteSkeleton - idle2_10: -4518915969252207307
+      EliteSkeleton - idle2_11: 6776675249974313924
+      EliteSkeleton - idle2_12: 1797861115350470387
+      EliteSkeleton - idle2_13: -6393182626264479782
+      EliteSkeleton - idle2_14: -3356817691030119354
+      EliteSkeleton - idle2_15: -3211186509828298987
+      EliteSkeleton - idle2_16: -443508724002596308
+      EliteSkeleton - idle2_17: 4854875539275721077
+      EliteSkeleton - idle2_18: 6746948830424968117
+      EliteSkeleton - idle2_19: 1564283465771334898
+      EliteSkeleton - idle2_2: -5466382641520813053
+      EliteSkeleton - idle2_20: 6298248937374703875
+      EliteSkeleton - idle2_21: 6310712567271380267
+      EliteSkeleton - idle2_22: 6984084491146290128
+      EliteSkeleton - idle2_23: 7937904646753491702
+      EliteSkeleton - idle2_24: 4902508278734715632
+      EliteSkeleton - idle2_25: -4024672883710819928
+      EliteSkeleton - idle2_26: -7400218372783590040
+      EliteSkeleton - idle2_27: 5980037598598565422
+      EliteSkeleton - idle2_28: -2083666825971659743
+      EliteSkeleton - idle2_29: 5949732891378531128
+      EliteSkeleton - idle2_3: 682783326407882028
+      EliteSkeleton - idle2_30: 3169314476940338079
+      EliteSkeleton - idle2_4: 212766813009233054
+      EliteSkeleton - idle2_5: -7068398894827224631
+      EliteSkeleton - idle2_6: 19557837171282429
+      EliteSkeleton - idle2_7: 1898026239378226143
+      EliteSkeleton - idle2_8: -2606946827392612228
+      EliteSkeleton - idle2_9: -6275105155829095254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

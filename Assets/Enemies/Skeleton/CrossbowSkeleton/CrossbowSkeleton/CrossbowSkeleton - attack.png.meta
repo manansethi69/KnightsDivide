@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: d93c582d14ec8cb4487c1477fd0b2295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8921558209036833768
+    second: CrossbowSkeleton - attack_0
+  - first:
+      213: -6762935280254219833
+    second: CrossbowSkeleton - attack_1
+  - first:
+      213: -6018247682328678140
+    second: CrossbowSkeleton - attack_2
+  - first:
+      213: -7512378972001678902
+    second: CrossbowSkeleton - attack_3
+  - first:
+      213: -2588164104043491001
+    second: CrossbowSkeleton - attack_4
+  - first:
+      213: -3627587156677692386
+    second: CrossbowSkeleton - attack_5
+  - first:
+      213: -6073108169994191838
+    second: CrossbowSkeleton - attack_6
+  - first:
+      213: 6745065589264609808
+    second: CrossbowSkeleton - attack_7
+  - first:
+      213: -6361187363198147716
+    second: CrossbowSkeleton - attack_8
+  - first:
+      213: -5329190939219429620
+    second: CrossbowSkeleton - attack_9
+  - first:
+      213: 3620816638516869165
+    second: CrossbowSkeleton - attack_10
+  - first:
+      213: 6208158672742762512
+    second: CrossbowSkeleton - attack_11
+  - first:
+      213: -773106071633457456
+    second: CrossbowSkeleton - attack_12
+  - first:
+      213: 7647470905924013326
+    second: CrossbowSkeleton - attack_13
+  - first:
+      213: 1588750892794224768
+    second: CrossbowSkeleton - attack_14
+  - first:
+      213: 5707430392694769416
+    second: CrossbowSkeleton - attack_15
+  - first:
+      213: 1364104174750754183
+    second: CrossbowSkeleton - attack_16
+  - first:
+      213: 290361121599314297
+    second: CrossbowSkeleton - attack_17
+  - first:
+      213: 7954067206055392386
+    second: CrossbowSkeleton - attack_18
+  - first:
+      213: 5264461323808650741
+    second: CrossbowSkeleton - attack_19
+  - first:
+      213: 8557172595366804070
+    second: CrossbowSkeleton - attack_20
+  - first:
+      213: -2389534766930268223
+    second: CrossbowSkeleton - attack_21
+  - first:
+      213: 5279226537348943517
+    second: CrossbowSkeleton - attack_22
+  - first:
+      213: 7957308414570203221
+    second: CrossbowSkeleton - attack_23
+  - first:
+      213: -6182782048761266543
+    second: CrossbowSkeleton - attack_24
+  - first:
+      213: 8082761682698385119
+    second: CrossbowSkeleton - attack_25
+  - first:
+      213: 8388740324596446344
+    second: CrossbowSkeleton - attack_26
+  - first:
+      213: 837536043109624774
+    second: CrossbowSkeleton - attack_27
+  - first:
+      213: -8495290940860199854
+    second: CrossbowSkeleton - attack_28
+  - first:
+      213: -6539587556009368792
+    second: CrossbowSkeleton - attack_29
+  - first:
+      213: -5895504528672544064
+    second: CrossbowSkeleton - attack_30
+  - first:
+      213: -8419547225853615997
+    second: CrossbowSkeleton - attack_31
+  - first:
+      213: -7911143490768089589
+    second: CrossbowSkeleton - attack_32
+  - first:
+      213: -1896733849914906129
+    second: CrossbowSkeleton - attack_33
+  - first:
+      213: 473736364946182833
+    second: CrossbowSkeleton - attack_34
+  - first:
+      213: -6185106482149914523
+    second: CrossbowSkeleton - attack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca36bc312403480800000000000000
+      internalID: -8921558209036833768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c98d75b13a3522a0800000000000000
+      internalID: -6762935280254219833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 47
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4013b747e93ea7ca0800000000000000
+      internalID: -6018247682328678140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 47
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c9b3902baeb790800000000000000
+      internalID: -7512378972001678902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 47
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7411216c57ef41cd0800000000000000
+      internalID: -2588164104043491001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 47
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14f47663b838adc0800000000000000
+      internalID: -3627587156677692386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 47
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c39fccb4cf7bba0800000000000000
+      internalID: -6073108169994191838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 47
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f3d2aa694b9d50800000000000000
+      internalID: 6745065589264609808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 47
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73eed2dbc588b7a0800000000000000
+      internalID: -6361187363198147716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 47
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0778977319ea06b0800000000000000
+      internalID: -5329190939219429620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 47
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283f9f7c89bf3230800000000000000
+      internalID: 3620816638516869165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_11
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 68
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c71eab6fc72650800000000000000
+      internalID: 6208158672742762512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 47
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de079abf106545f0800000000000000
+      internalID: -773106071633457456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_13
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 47
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d4cb95546412a60800000000000000
+      internalID: 7647470905924013326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 47
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a599f4806c0610800000000000000
+      internalID: 1588750892794224768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_15
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 47
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80707d0f3bdd43f40800000000000000
+      internalID: 5707430392694769416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_16
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 47
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78565a405854ee210800000000000000
+      internalID: 1364104174750754183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d285d6e1970400800000000000000
+      internalID: 290361121599314297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_18
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284f3804bf5826e60800000000000000
+      internalID: 7954067206055392386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_19
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5b5638eaf1f0940800000000000000
+      internalID: 5264461323808650741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_20
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66abb8c332f21c670800000000000000
+      internalID: 8557172595366804070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_21
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfecae2acaa6ded0800000000000000
+      internalID: -2389534766930268223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_22
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ecf7fa094934940800000000000000
+      internalID: 5279226537348943517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_23
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580faae7d90e6e60800000000000000
+      internalID: 7957308414570203221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_24
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e3ce30c78523aa0800000000000000
+      internalID: -6182782048761266543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_25
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd630651decbb2070800000000000000
+      internalID: 8082761682698385119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_26
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f09831eaca6470800000000000000
+      internalID: 8388740324596446344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_27
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba22008968f9b00800000000000000
+      internalID: 837536043109624774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_28
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 47
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c0f6636e9aa1a80800000000000000
+      internalID: -8495290940860199854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_29
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232f7a14c7be35a0800000000000000
+      internalID: -6539587556009368792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_30
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca24ccedd5fe2ea0800000000000000
+      internalID: -5895504528672544064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_31
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ae512862c72b80800000000000000
+      internalID: -8419547225853615997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_32
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ecf9109e8f53290800000000000000
+      internalID: -7911143490768089589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_33
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9ec52ec927da5e0800000000000000
+      internalID: -1896733849914906129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_34
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25dc5c6bc039600800000000000000
+      internalID: 473736364946182833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowSkeleton - attack_35
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680d71bc661a2aa0800000000000000
+      internalID: -6185106482149914523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrossbowSkeleton - attack_0: -8921558209036833768
+      CrossbowSkeleton - attack_1: -6762935280254219833
+      CrossbowSkeleton - attack_10: 3620816638516869165
+      CrossbowSkeleton - attack_11: 6208158672742762512
+      CrossbowSkeleton - attack_12: -773106071633457456
+      CrossbowSkeleton - attack_13: 7647470905924013326
+      CrossbowSkeleton - attack_14: 1588750892794224768
+      CrossbowSkeleton - attack_15: 5707430392694769416
+      CrossbowSkeleton - attack_16: 1364104174750754183
+      CrossbowSkeleton - attack_17: 290361121599314297
+      CrossbowSkeleton - attack_18: 7954067206055392386
+      CrossbowSkeleton - attack_19: 5264461323808650741
+      CrossbowSkeleton - attack_2: -6018247682328678140
+      CrossbowSkeleton - attack_20: 8557172595366804070
+      CrossbowSkeleton - attack_21: -2389534766930268223
+      CrossbowSkeleton - attack_22: 5279226537348943517
+      CrossbowSkeleton - attack_23: 7957308414570203221
+      CrossbowSkeleton - attack_24: -6182782048761266543
+      CrossbowSkeleton - attack_25: 8082761682698385119
+      CrossbowSkeleton - attack_26: 8388740324596446344
+      CrossbowSkeleton - attack_27: 837536043109624774
+      CrossbowSkeleton - attack_28: -8495290940860199854
+      CrossbowSkeleton - attack_29: -6539587556009368792
+      CrossbowSkeleton - attack_3: -7512378972001678902
+      CrossbowSkeleton - attack_30: -5895504528672544064
+      CrossbowSkeleton - attack_31: -8419547225853615997
+      CrossbowSkeleton - attack_32: -7911143490768089589
+      CrossbowSkeleton - attack_33: -1896733849914906129
+      CrossbowSkeleton - attack_34: 473736364946182833
+      CrossbowSkeleton - attack_35: -6185106482149914523
+      CrossbowSkeleton - attack_4: -2588164104043491001
+      CrossbowSkeleton - attack_5: -3627587156677692386
+      CrossbowSkeleton - attack_6: -6073108169994191838
+      CrossbowSkeleton - attack_7: 6745065589264609808
+      CrossbowSkeleton - attack_8: -6361187363198147716
+      CrossbowSkeleton - attack_9: -5329190939219429620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
